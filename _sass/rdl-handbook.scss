@@ -1,0 +1,15 @@
+/* allow links and code to wrap */
+a, code {
+    /* These are technically the same, but use both */
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    -ms-word-break: break-all;
+    /* Instead use this non-standard one: */
+    word-break: break-word;
+}
+.uol-rich-text ol li ul>li:before {
+    content: "";
+}
+.uol-rich-text ol>li>ul>li {
+    counter-increment: none;
+}

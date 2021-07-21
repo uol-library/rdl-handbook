@@ -1,0 +1,198 @@
+emails:
+  general:
+    - title: "Initial Enquiry"
+      content: |
+        Thank you for contacting us about depositing your data with the University’s data repository. We look forward to working with you. 
+
+        The data repository can hold any type of file format; from a reuse and preservation perspective, open and well defined formats are preferred and reduce the risk that your data becomes inaccessible in the longer term. We will pick this up when we discuss your data in more detail.
+
+        [Respond to any issues in the original email]
+    - title: "Initial Enquiry: Option 1"
+      content: |
+        It would be very helpful to discuss your data in more detail and outline what the repository service can and cannot offer. We will be in touch again in due course to arrange this at a convenient time for you.
+    - title: "Initial Enquiry: Option 2"
+      content: |
+        We received a helpful email from you giving brief details of your data and note that you need a digital object identifier for your data.
+        
+        It would be helpful to know: 
+
+        1. How soon do you need a DOI for the data statement in your paper?  
+        2. Which journal(s) are you planning to publish in?
+    - title: "On the award of a thesis"
+      content: |
+        Dear x, 
+
+        Congratulations on the award of your thesis. I'm emailing you from the Library's research data service. We note you have deposited some supplementary materials alongside your thesis. If the supplementary materials are valuable in their own right - for example, if you think you might reference them in a subsequent publication or conference presentation, or they are a resource which could be valuable to other researchers - we can add them to the research data repository (<https://archive.researchdata.leeds.ac.uk/>) and give them a DOI (permanent Digital Object Identifier).  
+
+        There is no obligation to do this, it's an option should you want to showcase your data and materials as research outputs in their own right.  
+
+        If this is of interest, let us know and we'll send further information about what to do next. 
+
+        Kind regards
+  supplementary:
+    - title: "Data Repository v Supplementary files: Text if we have been made aware of supplementary data files deposited in Symplectic/WRRO:"
+      content: |
+        We are contacting you regarding the supplementary files associated with your paper “xxxxxx” which you might consider making available from the [Research Data Leeds Repository](https://archive.researchdata.leeds.ac.uk/)
+
+        We can help you make these files available through our repository, an approach that is increasingly being adopted as best practice over supplementary files.   
+
+        As well as long-term, secure storage we will provide a DOI for your data so it can be disseminated, discovered and cited independently. The data in the repository is highly visible via Google and other search engines and will provide an additional route into the associated paper. 
+
+        Making your data available in this way does not take long and we are able to provide comprehensive support. 
+
+        For more information please get in touch or see <https://library.leeds.ac.uk/research-data-about>
+    - title: "Data Repository v Supplementary files: Text if author is not sure where they can deposit data/supplementary files and may not know about RDL:"
+      content: |
+        Depending upon the volume and nature of the supplementary material you could deposit it as supplementary files and it could be made available on White Rose Research Online, alongside the manuscript of your paper.  
+
+        However, we also have a Research Data repository at Leeds <https://archive.researchdata.leeds.ac.uk/>  (Research Data Leeds), where it might be more appropriate to deposit the data associated with your research paper, and we would encourage you to do this. Research Data Leeds enables the deposit, preservation and sharing of raw data files, which may even be beyond what you have originally envisioned as supplementary material for this particular paper. 
+        
+        The data repository can hold any type of file format; from a reuse and preservation perspective, open and well defined formats are preferred and reduce the risk that your data becomes inaccessible in the longer term. We will pick this up when we discuss your data in more detail. If you deposit the data in Research Data Leeds we can provide Digital Object Identifier(s) for your work: these ensure the data are readily citable and provide a permanent link to the data location, separate from the research paper. 
+        RDL repository content is readily discoverable via general internet search engines and so will provide a route to the data in addition to the published paper. The RDL repository record will include a descriptive summary of the data and a short guide to the data to help potential re-users navigate the deposited files.  
+        
+        If you want to go ahead with depositing your data with RDL, please let me know, and if possible at this stage, send me the following information about your data. 
+        
+        Dataset title: 
+        Dataset creator(s): (in the order you want them to appear) 
+        Dataset abstract: 
+        and a rough idea of the total size of the dataset.  
+
+        The process is outlined on the Research Data Leeds website at: 
+        
+        <https://library.leeds.ac.uk/info/14062/research_data_management/67/deposit_in_research_data_leeds>
+        
+        Please ask if I can clarify anything at this stage.
+  depositors:
+    - title: "Email outlining the deposit process with information needed to reserve DOI"
+      content: | 
+        Yes, the University has a data repository 
+ 
+        <http://archive.researchdata.leeds.ac.uk/>
+        
+        No fancy visualisations but a good home for the long-term storage of research data outputs. Metadata is harvested by google and various academic aggregators so you data will be discoverable in its own right. In addition each dataset is allocated a DOI so it is easy to unambiguously cite your data in your paper and for others to cite your dataset. 
+        
+        We encourage researchers who are new to depositing and sharing data to start with two questions 
+        
+        * If someone reads my paper or dissertation what data would they need to have available in order to be able to  validate my findings or conclusions? 
+        * Is any of the data I have collected of intrinsic value - perhaps because of the uniqueness of a situation or event, the scarcity of the sample tested or the very high cost associated with the data collection? 
+        
+        If your data goes through a complex processing chain answering these questions will also help you to decide which data stages will be of most value and reuse potential. You may even discover someone wants to collaborate with you because of the data. 
+        
+        To get started 
+
+        Please email the basic metadata fields for your dataset:
+
+        * Dataset title - This could be by reference to your paper, i.e. _Dataset associated with ‘Title of paper’_ (e.g. <http://archive.researchdata.leeds.ac.uk/40/>) or it could be a standalone title (e.g. <http://archive.researchdata.leeds.ac.uk/43/>) 
+        * Dataset creator(s) (in the order you want them to appear) 
+        * Dataset abstract
+        * Dataset content - a rough idea of the total size of the dataset.
+
+        Once we have this, we will give you a digital object identifier (DOI) for your data which you can include in your paper. We'll also create a holding folder on our N drive for your data files prior to upload into the data repository (<http://archive.researchdata.leeds.ac.uk/>) and send you a spreadsheet template to add descriptive metadata for your dataset.
+
+        Once your data is ready we'll load it into our review repository so you can verify what it will look like before it is visible outside the campus. We then need to make sure the data is deposited in the permanent repository and the DOI minted before the paper is published. 
+
+        The process is outlined on the Research Data Leeds website at: 
+
+        <https://library.leeds.ac.uk/info/14062/research_data_management/67/deposit_in_research_data_leeds>
+
+        Please ask if I can clarify anything at this stage.
+    - title: "Email sent once a DOI has been allocated (N Drive version)"
+      content: |
+        Your allocated DOI is https://doi.org/10.5518/xxx - this will not 'work' until the dataset is finalised and minted (registered) with the British Library but the DOI can be included in proofs, etc.  
+
+        Journals have a number of different approaches to how and where authors should reference associated datasets. The main thing is to ensure the data is referenced somewhere and as clearly as possible. Always include the DOI. Ideally (i) include a data statement (i.e. "the data associated with this paper is available from University of Leeds at  https://doi.org/10.5518/xxx") and (ii) include the dataset citation in your reference list. It's a good idea to check the preferred format of the DOI with the publisher – we often see examples where the DOIs are formatted incorrectly. Does the publisher want the DOI in the format doi:10.5518/xxx or in the format https://doi.org/10.5518/xxx?) 
+
+        Your data citation:  
+
+        _citation_
+
+        We've set up a folder on the shared drive for you to prepare your files and metadata  - copy and paste the full path into Windows Explorer (you will not be able to browse to this folder):  
+
+        _path_
+
+        \\ds.leeds.ac.uk\Shared\Academic-Services\Library-Services\RDL\Repository\ 
+
+        You will see a copy of our metadata template which we've started to fill in.  
+
+        * Please complete the additional details on the green 'Datasets' tab, at least those fields in yellow. In particular it's good to have an Abstract - summary of the dataset and some keywords 
+        * For most datasets it is good idea to include a README file. This should allow a reuser of the data to navigate the dataset, understand what it contains, and know what software might be needed for its reuse.
+        * We recommend you (and your co-authors) get an ORCiD if you don’t already have one so we can include it in the metadata (<https://library.leeds.ac.uk/researcher-orcid>).
+        * Please list your data files on the green 'Files' tab (if there are more than 12 consider using a zip file).
+        * Please drop your data files into the N drive folder (please let us know if your dataset exceeds 10GB) 
+        * We need you to agree to our Repository Deposit Agreement here: <http://bit.ly/rdldepositagreement> (you may need to log-in to Sharepoint)   
+        * We make data available under A Creative Commons Attribution licence (CC-BY); other licences are available. Are you happy with a CC-BY licence for your data? 
+        * If this dataset is associated with a publication please let us have the DOI for the paper and we'll add it to the dataset record.
+
+        When preparing your data files consider if you can include images, videos or other media which can be uploaded to Wikimedia Commons in order to expose your data to a wider audience (see this example <https://commons.wikimedia.org/wiki/File:Baxter_full.webm>)   
+
+        Once the metadata and files are ready, we will create an entry in our test repository so you can have a look and make sure you’re happy with everything before we make your data live.  
+
+        Once we have ‘minted’ the DOI in the live repository, certain fields are fixed: dataset title, creators, publication date, publisher and doi. Let us know if you need further information or if you have any difficulty accessing your folder on the N drive.  
+
+        Thanks
+    - title: "Email sent once a DOI has been allocated (OneDrive version)"
+      content: |
+        Your allocated DOI is https://doi.org/10.5518/xxx - this will not 'work' until the dataset is finalised and minted (registered) with the British Library but the DOI can be included in proofs, etc.  
+
+        Journals have a number of different approaches to how and where authors should reference associated datasets. The main thing is to ensure the data is referenced somewhere and as clearly as possible. Always include the DOI. Ideally (i) include a data statement (i.e. "the data associated with this paper is available from University of Leeds at https://doi.org/10.5518/xxx") and (ii) include the dataset citation in your reference list. It's a good idea to check the preferred format of the DOI with the publisher – we often see examples where the DOIs are formatted incorrectly. Does the publisher want the DOI in the format doi:10.5518/xxx or in the format https://doi.org/10.5518/xxx?) 
+
+        Your data citation is:  
+
+        _citation_
+
+        We've set up a folder on OneDrive for you to prepare your files and metadata  - you will receive the link for the OneDrive folder in a separate email.
+
+        You will see a copy of our metadata template which we've started to fill in.  
+
+        * Please complete the additional details on the green 'Datasets' tab, at least those fields in yellow. In particular it's good to have an Abstract - summary of the dataset and some keywords 
+        * For most datasets it is good idea to include a README file. This should allow a reuser of the data to navigate the dataset, understand what it contains, and know what software might be needed for its reuse.
+        * We recommend you (and your co-authors) get an ORCiD if you don’t already have one so we can include it in the metadata (<https://library.leeds.ac.uk/researcher-orcid>).
+        * Please list your data files on the green 'Files' tab (if there are more than 12 consider using a zip file).
+        * Please drop your data files into the OneDrive folder (please let us know if your dataset exceeds 10GB) 
+        * We need you to agree to our Repository Deposit Agreement here: <http://bit.ly/rdldepositagreement> (you may need to log-in to Sharepoint)   
+        * We make data available under A Creative Commons Attribution licence (CC-BY); other licences are available. Are you happy with a CC-BY licence for your data? 
+        * If this dataset is associated with a publication please let us have the DOI for the paper and we'll add it to the dataset record.
+
+        When preparing your data files consider if you can include images, videos or other media which can be uploaded to Wikimedia Commons in order to expose your data to a wider audience (see this example <https://commons.wikimedia.org/wiki/File:Baxter_full.webm>)   
+
+        Once the metadata and files are ready, we will create an entry in our test repository so you can have a look and make sure you’re happy with everything before we make your data live.  
+
+        Once we have ‘minted’ the DOI in the live repository, certain fields are fixed: dataset title, creators, publication date, publisher and doi. Let us know if you need further information or if you have any difficulty accessing your OneDrive folder.
+
+        Thanks
+    - title: "Dataset in review repository"
+      content: |
+        I have put your dataset into the review repository, so you can check that everything looks ok with it. In particular please could you confirm that the dataset title and creators haven't changed. We can change any of this up until we mint the DOI.
+        
+        Please follow this link http://review.researchdata.leeds.ac.uk/xxx
+        
+        You will need to be on a university network PC or Desktop Anywhere in order for the link to work. 
+  
+        The DOI https://doi.org/10.5518/xxx is not yet live, and we will only mint it when you let us know that you need it to be.
+    - title: "ORCIDs needed for Creators"
+      content: |
+        I am helping [depositor] to prepare a dataset to support the publication on which you are a co-author - [dataset title].
+
+        The University is moving towards the use of ORCID identifiers to help make sure that researchers are properly and unambiguously credited for their work.  
+
+        There is more info on the publications policy at <https://library.leeds.ac.uk/university-publications-policy>
+
+        And how to get your ORCID at <https://library.leeds.ac.uk/researcher-orcid>
+
+        Leeds staff can create an iD via the ORCiD tab in Employee Self Service. If you require help, please contact itservicedesk@leeds.ac.uk 
+
+        It will take just a couple of minutes but should make life a lot easier especially at the next REF. Once you have an ORCID it will move with you should your career take you elsewhere. 
+    - title: "Reminder to agree to Deposit agreement"
+      content: |
+        Please have a look at our deposit agreement and confirm that you accept:
+
+        <http://bit.ly/rdldepositagreement>
+
+        This is mainly about 2 things:
+
+        * It verifies that you have the right to deposit the data.
+        * It gives us the rights to manage the data - change file formats as software changes, remove files or the dataset in an emergency, such as a legal challenge.
+
+        For more information, see
+        
+        <https://library.leeds.ac.uk/info/14062/research_data_management/67/deposit_in_research_data_leeds/2>

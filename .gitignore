@@ -2,6 +2,7 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+.vstags
 assets/
 _includes/
 _layouts/

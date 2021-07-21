@@ -1,0 +1,45 @@
+/* "Copy" code block button */
+.uol-accordion__content {
+	position: relative;
+	.uol-rich-text {
+		border: 1px solid #ccc;
+		border-radius: 3px;
+		padding:2em .2em .5em .2em;
+		background:#fcfcfc;
+	}
+	.btnIcon {
+		position: absolute;
+		top: 4px;
+		width: 100px;
+		z-index: 2;
+		cursor: pointer;
+		border: 1px solid #333;
+		border-radius:3px;
+		padding: 3px;
+		line-height: 1.2em;
+		color: #333;
+		background-color: #eee;
+		transition: all .25s ease-out;
+		&:hover {
+			text-decoration: none;
+			background-color: #fff;
+		}
+		svg {
+			fill: currentColor;
+			margin-right: .4em;
+		}
+	}
+	.btnIcon__body {
+		align-items: center;
+		display: flex;
+	}
+	.btnIcon__label {
+		font-size: 12px;
+	}
+	.btnClipboardText {
+		right: 114px;
+	}
+	.btnClipboardHTML {
+		right: 4px;
+	}
+}
