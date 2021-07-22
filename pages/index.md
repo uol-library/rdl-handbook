@@ -22,5 +22,5 @@ widgets:
         link: /email-templates/
         imageurl: "/assets/img/placeholders/rdl-handbook-03.jpg"
         imagealt: "Speech bubble with horizontal ellipsis made from post-it notes"
-        content: "
+        content: ""
 ---
