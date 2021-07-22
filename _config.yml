@@ -54,6 +54,7 @@ show_excerpts: true
 date_format: "%A %-d %b, %Y"
 permalink: pretty
 
+theme: 
 plugins:
  - jekyll-feed
  - jekyll-seo-tag

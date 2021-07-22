@@ -4,23 +4,23 @@ title: Research Data Team Handbook
 permalink: /
 widgets:
  - type: cards
-    featured: false
-    title: Research Data Handbook
-    lead: 
-    cards:
-      - title: User Guide
-        link: /user-guide/
-        imageurl: "/assets/img/placeholders/rdl-handbook-01.jpg"
-        imagealt: "Interior view of a library"
-        content: ""
-      - title: Policies and Processes
-        link: /policies-processes/
-        imageurl: "/assets/img/placeholders/rdl-handbook-02.jpg"
-        imagealt: "Jigsaw pieces"
-        content: ""
-      - title: Email Templates
-        link: /email-templates/
-        imageurl: "/assets/img/placeholders/rdl-handbook-03.jpg"
-        imagealt: "Speech bubble with horizontal ellipsis made from post-it notes"
-        content: ""
+   featured: false
+   title: 
+   lead: 
+   cards:
+     - title: User Guide
+       link: /user-guide/
+       imageurl: "/assets/img/placeholders/rdl-handbook-01.jpg"
+       imagealt: "Interior view of a library"
+       content: ""
+     - title: Policies and Processes
+       link: /policies-processes/
+       imageurl: "/assets/img/placeholders/rdl-handbook-02.jpg"
+       imagealt: "Jigsaw pieces"
+       content: ""
+     - title: Email Templates
+       link: /email-templates/
+       imageurl: "/assets/img/placeholders/rdl-handbook-03.jpg"
+       imagealt: "Speech bubble with horizontal ellipsis made from post-it notes"
+       content: ""
 ---
