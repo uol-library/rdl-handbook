@@ -23,9 +23,4 @@ widgets:
        imageurl: "/assets/img/placeholders/rdl-handbook-04.jpg"
        imagealt: "Network graph visualisation"
        content: ""
-     - title: Email Templates
-       link: /email-templates/
-       imageurl: "/assets/img/placeholders/rdl-handbook-03.jpg"
-       imagealt: "Speech bubble with horizontal ellipsis made from post-it notes"
-       content: ""
 ---

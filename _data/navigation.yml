@@ -61,6 +61,9 @@ mainmenu:
     url: /data-management/
   - title: Email Templates
     url: /email-templates/
+  - title: Statistics
+    url: /statistics/
+
 #  - title: 
 #    items:
 #      - title:
@@ -200,6 +203,12 @@ footermenus:
         url: https://library.leeds.ac.uk/info/14062/research_data_management/66/sharing_data
       - title: Find, reuse and cite data
         url: https://library.leeds.ac.uk/info/14062/research_data_management/70/find_reuse_and_cite_data
+  - title: Tools and Utilities
+    items:
+      - title: Email Templates
+        url: /email-templates/
+      - title: Statistics
+        url: /statistics/
 
 # Footer Information consists of links to key pages on the site.
 # Each site should have its own Accessibility and Privacy pages
@@ -207,7 +216,9 @@ footermenus:
 # Page. You can also link to the University FOI page here.
 
 footerinfo:
-  - url: 
-    title: 
+  - url: /privacy/
+    title: Privacy and Cookies
+  - url: /accessibility/
+    title: Accessibility
   - url: "https://leeds.ac.uk/freedom-of-information"
     title: "Freedom of information"
