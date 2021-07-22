@@ -4,6 +4,9 @@ _site/
 .jekyll-metadata
 .vstags
 assets/
-_includes/
+!_includes/
+_includes/*
+!_includes/components
 _layouts/
 Gemfile.lock
+

@@ -1,0 +1,46 @@
+{% comment %}
+*
+*   Banners with image, title, text and link
+*   Each banner item is in a list item and is
+*   loaded using the banner-item.html template
+*
+{% endcomment %}
+
+{% assign ndb = site.data[page.datafile].banners | size %}
+{% assign nsb = site.data.banners[page.banner] | size %}
+{% if page.banners != empty %}
+  {% assign bnr = page.banners %}
+{% elsif ndb > 0 %}
+  {% assign bnr = site.data[page.datafile].banners %}
+{% elsif nsb > 0 %}
+  {% assign bnr = site.data.banners[page.banner] %}
+{% endif %}
+{% assign nb = bnr | size %}
+{% if nb > 0 %}
+  <div class="uol-banner-outer">
+    {% if nb == 1 %}
+    <div class="uol-banner-container">
+    {% else %}
+    <div class="uol-banner-container uol-banner-container--multiple">
+    {% endif %}
+      <h2 class="hide-accessible">Featured</h2>
+      {% if nb > 1 %}
+      <ol tabindex="0" class="uol-banner uol-banner--multiple">
+        {% for item in bnr %}
+        <li class="uol-banner__item">
+          {% include components/banner-item.html banneritem=item %}
+        </li>
+        {% endfor %}
+      </ol>
+      {% else %}
+      <div tabindex="0" class="uol-banner ">
+        {% for item in bnr %}
+        <div class="uol-banner__item">
+          {% include components/banner-item.html banneritem=item %}
+        </div>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+  </div>
+{% endif %}
