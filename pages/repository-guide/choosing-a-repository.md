@@ -2,7 +2,7 @@
 layout: page
 sectionmenu: userguide
 title: Choosing a Repository
-permalink: /user-guide/choosing-a-repository/
+permalink: /repository-guide/choosing-a-repository/
 ---
 
 ## Is your data already in another repository?

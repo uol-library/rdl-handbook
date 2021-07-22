@@ -2,7 +2,7 @@
 layout: page
 sectionmenu: userguide
 title: Making HPC data available to RDL team 
-permalink: /user-guide/hpc-data/
+permalink: /policies-processes/hpc-data/
 ---
 
 Thanks to Chris Wareing for providing these instructions.

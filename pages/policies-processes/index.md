@@ -5,9 +5,16 @@ title: Repository Policies
 permalink: /policies-processes/
 ---
 
-## Research Data Management Policy
+## Research Data Management Policies
 
-<https://library.leeds.ac.uk/info/14062/research_data_management/68/research_data_management_policy>
+* [Research data management policy](https://library.leeds.ac.uk/research-data-policies)
+* [Safeguarding data](https://library.leeds.ac.uk/info/14062/research_data_management/63/safeguarding_data)
+
+## University Policies
+
+* [Information Protection Policy](https://leeds.service-now.com/it?id=kb_article&number=KB0011140)
+* [Data Protection Information for Researchers](https://dataprotection.leeds.ac.uk/information-for-researchers/)
+* [Information Management Guide](https://dataprotection.leeds.ac.uk/wp-content/uploads/sites/48/2019/05/Information-Management-Guide.pdf)
 
 ## Retaining personal data indefinitely
 

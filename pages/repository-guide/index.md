@@ -1,13 +1,12 @@
 ---
 layout: page
 sectionmenu: userguide
-title: Repository User Guidance
-permalink: /user-guide/
+title: What the repository is for
+permalink: /repository-guide/
 ---
 
-## What the repository is for
-
 _Either_ to underpin a research publication  
+
 _Or_ Because of the intrinsic value of the data  
 
 It is your decision what makes up the 'dataset' associated with your published paper. Here's an example:  

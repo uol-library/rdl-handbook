@@ -2,7 +2,7 @@
 layout: page
 sectionmenu: userguide
 title: Deposit with UKDS via ReShare
-permalink: /user-guide/deposit-with-ukds/
+permalink: /repository-guide/deposit-with-ukds/
 ---
 
 ESRC expect data associated with ESRC funded research to be deposited with an appropriate repository within 3 months of the end of the funded project. Although there is some flexibility about where you deposit the data, we recommend you use the ReShare data repository which is managed by the UK Data Service on behalf of the ESRC.  

@@ -2,7 +2,7 @@
 layout: page
 sectionmenu: userguide
 title: Creating a README file
-permalink: /user-guide/creating-a-readme/
+permalink: /policies-processes/creating-a-readme/
 ---
 
 ## Readme for Data and Software 

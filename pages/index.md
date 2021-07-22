@@ -8,8 +8,8 @@ widgets:
    title: 
    lead: 
    cards:
-     - title: User Guide
-       link: /user-guide/
+     - title: Repository User Guide
+       link: /repository-guide/
        imageurl: "/assets/img/placeholders/rdl-handbook-01.jpg"
        imagealt: "Interior view of a library"
        content: ""
@@ -17,6 +17,11 @@ widgets:
        link: /policies-processes/
        imageurl: "/assets/img/placeholders/rdl-handbook-02.jpg"
        imagealt: "Jigsaw pieces"
+       content: ""
+     - title: Data Management
+       link: /data-management/
+       imageurl: "/assets/img/placeholders/rdl-handbook-04.jpg"
+       imagealt: "Network graph visualisation"
        content: ""
      - title: Email Templates
        link: /email-templates/

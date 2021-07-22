@@ -2,7 +2,7 @@
 layout: page
 sectionmenu: userguide
 title: Deposit with Research Data Leeds
-permalink: /user-guide/deposit-with-leeds/
+permalink: /repository-guide/deposit-with-leeds/
 ---
 
 The University of Leeds has a data repository 
