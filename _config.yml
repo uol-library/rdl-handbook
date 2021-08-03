@@ -54,14 +54,11 @@ show_excerpts: true
 date_format: "%A %-d %b, %Y"
 permalink: pretty
 
-<<<<<<< HEAD:_config.yml
 theme: 
-=======
 exclude:
   - README.md
   - LICENSE
 
->>>>>>> 2287795... Excluded README from build and merged in change log. Removed whitespace from search file:_config-example.yml
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
