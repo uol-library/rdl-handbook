@@ -1,7 +1,8 @@
 ---
 layout: page
 sectionmenu: processes
-title: Creating manifests 
+title: Creating manifests
+index: true
 permalink: /policies-processes/creating-manifests/
 ---
 

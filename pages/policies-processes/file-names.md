@@ -2,6 +2,7 @@
 layout: page
 sectionmenu: processes
 title: File names
+index: true
 permalink: /policies-processes/file-preparation/
 ---
 

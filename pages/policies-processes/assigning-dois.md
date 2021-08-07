@@ -2,6 +2,7 @@
 layout: page
 sectionmenu: processes
 title: Assigning DOIs
+index: true
 permalink: /policies-processes/assigning-dois/
 ---
 
@@ -12,7 +13,7 @@ The depositor should first complete the form here: <https://bit.ly/request_DOI>
 3. Enter basic data details (date (column B), Title (column C), authors (column D - just cut and paste the whole lot), abstract (column O) 
 4. Enter details of the requestor on the Depositors tab, including the RT number 
 
-Dataset citation to researcher for inclusion in publication: You can cut and paste the details into your [email reply to them]({% link pages/email-templates.md %}). Go to the DOI_email tab, enter your allocated DOI into cell B2, cut and paste the draft citation from cell B11. e.g.  
+Dataset citation to researcher for inclusion in publication: You can cut and paste the details into your [email reply to them]({% link pages/templates/email.md %}). Go to the DOI_email tab, enter your allocated DOI into cell B2, cut and paste the draft citation from cell B11. e.g.  
 
 {% include components/quote.html content="John Kendrick and Andrew Burnett (2015): Dataset relating to 'PDielec: The Calculation of Infrared and Terahertz Absorption for Powdered Crystals' University of Leeds. [Dataset]. http://doi.org/10.5518/21" type="pull" align="left" %}
 

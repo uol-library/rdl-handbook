@@ -2,6 +2,7 @@
 layout: page
 sectionmenu: processes
 title: RADAR
+index: true
 permalink: /policies-processes/radar/
 ---
 

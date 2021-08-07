@@ -1,7 +1,8 @@
 ---
 layout: page
 sectionmenu: userguide
-title: Making HPC data available to RDL team 
+title: Making HPC data available to RDL team
+index: true
 permalink: /policies-processes/hpc-data/
 ---
 

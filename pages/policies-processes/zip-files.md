@@ -2,6 +2,7 @@
 layout: page
 sectionmenu: processes
 title: Handling zipped archives
+index: true
 permalink: /policies-processes/zip-files/
 ---
 

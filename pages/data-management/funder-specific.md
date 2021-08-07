@@ -2,6 +2,7 @@
 layout: page
 sectionmenu: dmp
 title: Funder specific Information
+index: true
 permalink: /data-management/funders/
 ---
 

@@ -2,6 +2,7 @@
 layout: page
 sectionmenu: dmp
 title: Data Sharing
+index: true
 permalink: /data-management/data-sharing/
 ---
 

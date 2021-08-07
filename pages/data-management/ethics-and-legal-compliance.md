@@ -2,6 +2,7 @@
 layout: page
 sectionmenu: dmp
 title: Ethics and Legal Compliance
+index: true
 permalink: /data-management/ethics-and-legal-compliance/
 ---
 

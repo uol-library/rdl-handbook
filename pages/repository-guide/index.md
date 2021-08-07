@@ -2,6 +2,7 @@
 layout: page
 sectionmenu: userguide
 title: What the repository is for
+index: true
 permalink: /repository-guide/
 ---
 

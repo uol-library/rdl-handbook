@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Email Templates
-permalink: /email-templates/
+permalink: /templates/email/
 ---
 
 ## General Responses

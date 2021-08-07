@@ -2,6 +2,7 @@
 layout: page
 sectionmenu: dmp
 title: Selection and Preservation
+index: true
 permalink: /data-management/selection-and-preservation
 ---
 

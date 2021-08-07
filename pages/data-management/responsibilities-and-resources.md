@@ -2,6 +2,7 @@
 layout: page
 sectionmenu: dmp
 title: Responsibilities and Resources
+index: true
 permalink: /data-management/responsibilities-and-resources/
 ---
 

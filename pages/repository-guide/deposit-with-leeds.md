@@ -2,6 +2,7 @@
 layout: page
 sectionmenu: userguide
 title: Deposit with Research Data Leeds
+index: true
 permalink: /repository-guide/deposit-with-leeds/
 ---
 

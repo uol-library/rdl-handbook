@@ -2,6 +2,7 @@
 layout: page
 sectionmenu: processes
 title: Repository Policies
+index: true
 permalink: /policies-processes/
 ---
 

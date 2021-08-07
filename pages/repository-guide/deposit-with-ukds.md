@@ -2,6 +2,7 @@
 layout: page
 sectionmenu: userguide
 title: Deposit with UKDS via ReShare
+index: true
 permalink: /repository-guide/deposit-with-ukds/
 ---
 

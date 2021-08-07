@@ -2,6 +2,7 @@
 layout: page
 sectionmenu: dmp
 title: What is a Data Management Plan (DMP)?
+index: true
 permalink: /data-management/what-is-a-dmp/
 ---
 

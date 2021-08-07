@@ -1,7 +1,8 @@
 ---
 layout: page
 sectionmenu: processes
-title: DOI Suitability 
+title: DOI Suitability
+index: true
 permalink: /policies-processes/doi-suitability/
 ---
 

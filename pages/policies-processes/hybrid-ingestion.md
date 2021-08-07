@@ -2,6 +2,7 @@
 layout: page
 sectionmenu: processes
 title: Hybrid Ingestion
+index: true
 permalink: /policies-processes/hybrid-ingestion/
 ---
 

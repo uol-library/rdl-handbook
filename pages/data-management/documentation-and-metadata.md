@@ -2,6 +2,7 @@
 layout: page
 sectionmenu: dmp
 title: Documentation and Metadata
+index: true
 permalink: /data-management/documentation-and-metadata/
 ---
 

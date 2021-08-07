@@ -2,6 +2,7 @@
 layout: page
 sectionmenu: dmp
 title: Data Management
+index: true
 permalink: /data-management/
 ---
 

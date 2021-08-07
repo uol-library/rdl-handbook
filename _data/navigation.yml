@@ -59,8 +59,8 @@ mainmenu:
     url: /policies-processes/
   - title: Data Management
     url: /data-management/
-  - title: Email Templates
-    url: /email-templates/
+  - title: Templates
+    url: /templates/
   - title: Statistics
     url: /statistics/
 

@@ -2,6 +2,7 @@
 layout: page
 sectionmenu: processes
 title: Preparing the spreadsheet
+index: true
 permalink: /policies-processes/preparing-spreadsheet/
 ---
 

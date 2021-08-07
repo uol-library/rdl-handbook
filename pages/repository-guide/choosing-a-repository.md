@@ -2,6 +2,7 @@
 layout: page
 sectionmenu: userguide
 title: Choosing a Repository
+index: true
 permalink: /repository-guide/choosing-a-repository/
 ---
 

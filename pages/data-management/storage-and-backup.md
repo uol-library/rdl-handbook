@@ -2,6 +2,7 @@
 layout: page
 sectionmenu: dmp
 title: Storage and Backup
+index: true
 permalink: /data-management/storage-and-backup/
 ---
 
