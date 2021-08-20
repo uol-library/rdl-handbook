@@ -1,6 +1,6 @@
 ---
 layout: page
-sectionmenu: userguide
+sectionmenu: processes
 title: Making HPC data available to RDL team
 index: true
 permalink: /policies-processes/hpc-data/

@@ -1,6 +1,6 @@
 ---
 layout: page
-sectionmenu: userguide
+sectionmenu: processes
 title: Creating a README file
 index: true
 permalink: /policies-processes/creating-a-readme/
