@@ -1,3 +1,9 @@
+---
+layout: page
+title: Tests
+permalink: /tests/
+---
+
 [page link test - permalink](/privacy/)
 
 [page link test 2- abs url](/privacy/index.html)
