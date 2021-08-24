@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-copiable
 title: Privacy page template (generic)
 permalink: /templates/privacy/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-copiable
 title: Accessibility page template (generic)
 permalink: /templates/accessibility/
 ---

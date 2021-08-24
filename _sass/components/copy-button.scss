@@ -1,7 +1,9 @@
 /* "Copy" code block button */
+.uol-copiable-container,
 .uol-accordion__content {
 	position: relative;
-	.uol-rich-text {
+	.uol-rich-text,
+	.uol-copiable {
 		border: 1px solid #ccc;
 		border-radius: 3px;
 		padding:2em .2em .5em .2em;
