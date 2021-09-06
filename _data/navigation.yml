@@ -151,13 +151,13 @@ sections:
         url: /data-management/faculties/
       - title: Funder specific Information
         url: /data-management/funders/
-   openresearch:
-      title: open research
-      items: 
-        - title: open research
-          url: /open-research/
-        - title: EU open science
-          url: /open-research/eu-open-science/
+  openresearch:
+    title: open research
+    items: 
+      - title: open research
+        url: /open-research/
+      - title: EU open science
+        url: /open-research/eu-open-science/
 #        url:
 #      - title :
 #        url:
