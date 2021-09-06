@@ -59,12 +59,12 @@ mainmenu:
     url: /policies-processes/
   - title: Data Management
     url: /data-management/
+  - title: Open research
+    url: /open-research/
   - title: Templates
     url: /templates/
   - title: Statistics
     url: /statistics/
-  - title: Open research
-    url: /open-research/
 
 #  - title: 
 #    items:

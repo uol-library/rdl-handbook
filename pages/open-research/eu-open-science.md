@@ -3,7 +3,7 @@ layout: page
 sectionmenu: openresearch
 title: EU open science
 index: true
-permalink: /eu-open-science/
+permalink: /open-research/eu-open-science/
 ---
 
 # Horizon Europe Programme
