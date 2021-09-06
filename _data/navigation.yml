@@ -63,6 +63,8 @@ mainmenu:
     url: /templates/
   - title: Statistics
     url: /statistics/
+  - title: open research
+    url: /open-research/
 
 #  - title: 
 #    items:
