@@ -1,6 +1,6 @@
 ---
 layout: page
-sectionmenu: open research
+sectionmenu: openresearch
 title: EU open science
 index: true
 permalink: /eu-open-science/
