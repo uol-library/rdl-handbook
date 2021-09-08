@@ -12,6 +12,7 @@ Research should be “as open as possible, as closed as necessary”. Some resea
 
 #### The open approaches that are relevant and appropriate for your specific disciplinary context may vary. Click the links for an overview of each practice and a basic template that can be adapted for your proposal.
 
+
 The basic principles of open science, research and scholarship are to:
 
 * make publications available open access
