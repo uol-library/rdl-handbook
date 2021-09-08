@@ -59,7 +59,7 @@ mainmenu:
     url: /policies-processes/
   - title: Data Management
     url: /data-management/
-  - title: Open research
+  - title: Open Research
     url: /open-research/
   - title: Templates
     url: /templates/
@@ -152,7 +152,7 @@ sections:
       - title: Funder specific Information
         url: /data-management/funders/
   openresearch:
-    title: open research
+    title: Open Research
     items: 
       - title: open research
         url: /open-research/
