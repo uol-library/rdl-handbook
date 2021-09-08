@@ -7,7 +7,7 @@ permalink: /open-research/horizon-europe-programme/
 ---
 
 ## Horizon Europe Programme - Research Data Management and open research
-#### These pages are to help you consider Research Data Management and potential open research practices for your Horizon Europe Programme proposal
+#### These pages are to help you consider Research Data Management (RDM) and potential open research practices for your Horizon Europe Programme proposal
 #### [Standard Application Form (HE RIA, IA) Example, not to complete](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf) Version 1.1, 19 April 2021
 > Describe how appropriate open science practices are implemented as an integral part of the proposed methodology. Show how the choice of practices and their implementation are adapted to the nature of your work, in a way that will increase the chances of the project delivering on its objectives (e.g. 1 page). If you believe that none of these practices are appropriate for your project, please provide a justification here. 
 
