@@ -156,6 +156,8 @@ sections:
     items: 
       - title: open research
         url: /open-research/
+      - title: Horizon Europe Programme
+        url: /open-research/horizon-europe-programme/
       - title: EU open science
         url: /open-research/eu-open-science/
 
