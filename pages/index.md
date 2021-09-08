@@ -23,4 +23,9 @@ widgets:
        imageurl: "/assets/img/placeholders/rdl-handbook-04.jpg"
        imagealt: "Network graph visualisation"
        content: ""
+     - title: Open Research
+       link: /open-research/
+       imageurl: "/assets/img/placeholders/banner-01.jpg"
+       imagealt: "Barbara Hepworth sculpture in University grounds"
+       content: ""
 ---
