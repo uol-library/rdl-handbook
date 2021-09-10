@@ -6,5 +6,5 @@ index: true
 permalink: /open-research/rdm-template/
 ---
 
-TEMPLATE text
+# Completing the "Research data management and management of other research outputs" section
 
