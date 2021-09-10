@@ -43,6 +43,7 @@ How will you make sure it is clear how the data or other material (e.g. code) ca
 State who will be responsible for collecting, organising and depositing data and any quality control measures you will put in place. Do you have access to sufficient storage for your data? Are you handling very sensitive data? Two important considerations:
 1. Costs for [additional storage](https://it.leeds.ac.uk/it?id=kb_article&sysparm_article=KB0013189) (if in doubt, contact IT)
 2. If your data is very sensitive (e.g. NHS data) and needs to be stored securely on [LASER (Leeds Analytic Secure Environment for Research)](https://lida.leeds.ac.uk/about-lida/integrated-research-campus/), it is **important** to discuss your project requirements with the LASER team and build costs into your budget. Email <dat@leeds.ac.uk>
+
 #### Suggested text:
 (If you have basic storage requirements which can be accommodated on standard University infrastructure)
 
