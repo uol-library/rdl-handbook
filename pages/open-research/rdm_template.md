@@ -45,7 +45,9 @@ State who will be responsible for collecting, organising and depositing data and
 2. If your data is very sensitive (e.g. NHS data) and needs to be stored securely on [LASER (Leeds Analytic Secure Environment for Research)](https://lida.leeds.ac.uk/about-lida/integrated-research-campus/), it is **important** to discuss your project requirements with the LASER team and build costs into your budget. Email <dat@leeds.ac.uk>
 #### Suggested text:
 (If you have basic storage requirements which can be accommodated on standard University infrastructure)
+
 "All materials will be stored on fully backed up University storage. Data stored on portable devices will be transferred to University provisioned storage as soon as is practicable."
+
 "Data deposited with the Research Data Leeds repository will be retained for a minimum of 10 years; data of long-term value will be retained indefinitely."
 
 ## Post award
