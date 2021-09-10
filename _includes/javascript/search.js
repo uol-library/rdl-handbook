@@ -71,7 +71,7 @@ var renderResults = function( results ) {
 	var numResults = results.length;
 	// Check for paging
 	var page = 1;
-	var perPage = 3;
+	var perPage = 10;
 	if (searchParams.has('page')) {
 		page = parseInt(searchParams.get('page'));
 	}
