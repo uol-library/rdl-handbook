@@ -12,7 +12,9 @@ Research should be “as open as possible, as closed as necessary”. Some resea
 
 Open research is also relevant to broader considerations of research culture such as equality, diversity and inclusion. 
 
-See this resource from OD & PL for more information about how the University of Leeds is [Building Our Research Culture:](https://sway.office.com/ggnNs62UTA9F6GuW)
+See [this resource from OD & PL](https://sway.office.com/ggnNs62UTA9F6GuW) for more information about how the University of Leeds is [Building Our Research Culture:](https://sway.office.com/ggnNs62UTA9F6GuW)
+
+See links below for funder specific guidance:
 
 [EU open science](https://handbook.researchdata.leeds.ac.uk/open-research/eu-open-science/)
 
