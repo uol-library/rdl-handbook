@@ -9,7 +9,7 @@ permalink: /open-research/eu-open-science/
 #### The open approaches that are relevant and appropriate for your specific disciplinary context may vary. Click the links for an overview of each practice and a basic template that can be adapted for your proposal.
 
 
-The basic principles of open science, research and scholarship are to:
+The basic principles of open science, research and scholarship are listed below. See [open science template text](https://handbook.researchdata.leeds.ac.uk/open-research/open-science-template/) for more detailed guidance on each item:
 
 * make publications available open access
 * make underlying data relating to publications openly available wherever possible
