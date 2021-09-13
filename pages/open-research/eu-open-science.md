@@ -6,10 +6,6 @@ index: true
 permalink: /open-research/eu-open-science/
 ---
 
-The terms open science, open research and open scholarship are often used interchangably and encompasses the entire research process, to make all aspects of the research cycle accessible. This extends the established ways to share your research of making publications open access and making the underlying data available.
-
-Research should be “as open as possible, as closed as necessary”. Some research outputs cannot be openly available due to ethical, legal or commercial restrictions.
-
 #### The open approaches that are relevant and appropriate for your specific disciplinary context may vary. Click the links for an overview of each practice and a basic template that can be adapted for your proposal.
 
 
