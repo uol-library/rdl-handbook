@@ -16,6 +16,6 @@ See [this resource from OD & PL](https://sway.office.com/ggnNs62UTA9F6GuW) for m
 
 See links below for funder specific guidance:
 
-[EU open science](https://handbook.researchdata.leeds.ac.uk/open-research/eu-open-science/)
+[Horizon Europe Programme](https://handbook.researchdata.leeds.ac.uk/open-research/horizon-europe-programme/)
 
 Wellcome open research
