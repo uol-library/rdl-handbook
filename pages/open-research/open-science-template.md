@@ -14,19 +14,15 @@ permalink: /open-research/open-science-template/
 Some open science practices are mandatory for all beneficiaries per the grant agreement. They concern:
 
 * open access to scientific publications under the conditions required by the grant agreement
-
 Immediate OA under gold OR green for subscription / no hybrid? Embargoes apply?
 
 * responsible management of research data in line with the FAIR principles of Findability’, ‘Accessibility’, ‘Interoperability’ and ‘Reusability’, notably through the generalised use of data management plans, and open access to research data under the principle ‘as open as possible, as closed as necessary’, under the conditions required by the grant agreement
-
 Link to RDM template
 
 * information about the research outputs/tools/instruments needed to validate the conclusions of scientific publications or to validate/re-use research data digital or physical access to the results needed to validate the conclusions of scientific publications, unless exceptions apply
-
 Some boilerplate
 
 * in cases of public emergency, if requested by the granting authority, immediate open access to all research outputs under open licenses or, if exceptions apply, access under fair and reasonable conditions to legal entities that need the research outputs to address the public emergency
-
 How does this work in respect to publisher copyright / T&C?
 
 #### Recommended open science practices
