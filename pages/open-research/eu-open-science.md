@@ -6,9 +6,9 @@ index: true
 permalink: /open-research/eu-open-science/
 ---
 
-##### Describe how appropriate open science practices are implemented as an integral part of the proposed methodology. Show how the choice of practices and their implementation are adapted to the nature of your work, in a way that will increase the chances of the project delivering on its objectives. If you believe that none of these practices are appropriate for your project, please provide a justification here. 
+##### "Describe how appropriate open science practices are implemented as an integral part of the proposed methodology. Show how the choice of practices and their implementation are adapted to the nature of your work, in a way that will increase the chances of the project delivering on its objectives. If you believe that none of these practices are appropriate for your project, please provide a justification here." [Horizon Europe Programme - Standard Application Form (HE RIA, IA) Version 3, 26 May]page 8 of 23 (https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf) 
 
-### See [open science template text](https://handbook.researchdata.leeds.ac.uk/open-research/open-science-template/) for more detailed guidance on each item
+#### See [open science template text](https://handbook.researchdata.leeds.ac.uk/open-research/open-science-template/) for more detailed guidance on each item
 
 ### Mandatory open science practices ([Horizon Europe, Programme Guide Version 1.1, 19 July](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf)
 
