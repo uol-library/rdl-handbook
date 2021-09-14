@@ -28,7 +28,7 @@ Beneficiaries (or authors) must retain sufficient intellectual property rights t
 Only publication fees in full open access venues for peer-reviewed scientific publications are eligible for reimbursement. 
 
 ##### Suggested text:
-"The authors' accepted manuscript (AAM) will be deposited into the White Rose repository on acceptance for publication. This will apply for both fully OA journals and for subscription and hybrid journals. For these venues we will include a statement advising that 'This research was funded, in whole or in part, by the Horizon Europe Programme [grant number]. For the purpose of open access, the author has applied a CC-BY public copyright licence to any Author Accepted Manuscript (AAM) version arising from this submission'.
+"The authors' accepted manuscript (AAM) will be deposited into the White Rose repository on acceptance for publication. This will apply for both fully OA journals and for subscription and hybrid journals. For these venues, during submission we will include a statement advising the publisher that 'This research was funded, in whole or in part, by the Horizon Europe Programme [grant number]. For the purpose of open access, the author has applied a CC-BY public copyright licence to any Author Accepted Manuscript (AAM) version arising from this submission'.
 
 
 #### responsible management of research data in line with the FAIR principles of Findability’, ‘Accessibility’, ‘Interoperability’ and ‘Reusability’, notably through the generalised use of data management plans, and open access to research data under the principle ‘as open as possible, as closed as necessary’, under the conditions required by the grant agreement
