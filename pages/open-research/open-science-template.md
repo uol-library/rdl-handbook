@@ -23,6 +23,12 @@ The beneficiaries must ensure open access to peer-reviewed scientific publicatio
 
 * information is given via the repository about any research output or any other tools and instruments needed to validate the conclusions of the scientific publication. Beneficiaries (or authors) must retain sufficient intellectual property rights to comply with the open access requirements. 
 
+Beneficiaries (or authors) must retain sufficient intellectual property rights to comply with the open access requirements. 
+
+Only publication fees in full open access venues for peer-reviewed scientific publications are eligible for reimbursement. 
+
+##### Suggested text
+
 
 #### responsible management of research data in line with the FAIR principles of Findability’, ‘Accessibility’, ‘Interoperability’ and ‘Reusability’, notably through the generalised use of data management plans, and open access to research data under the principle ‘as open as possible, as closed as necessary’, under the conditions required by the grant agreement
 
