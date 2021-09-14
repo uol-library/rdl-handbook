@@ -8,9 +8,11 @@ permalink: /open-research/horizon-europe-programme/
 
 ## Horizon Europe Programme - Research Data Management and open science
 #### These pages are to help you consider Research Data Management (RDM) and potential open science practices for your Horizon Europe Programme proposal
-#### [Horizon Europe, Programme Guide](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf) Version 3, 26 May 2021
-> Excellence – aspects to be taken into account.
-> Soundness of the proposed methodology, including the underlying concepts, models, assumptions, interdisciplinary approaches, appropriate consideration of the gender dimension in research and innovation content, and the quality of open science practices, including sharing and management of research outputs and engagement of citizens, civil society and end users where appropriate
+#### [Horizon Europe, Programme Guide](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf) Version 1.1, 19 July 
+#### Excellence – aspects to be taken into account.
+#### Soundness of the proposed methodology, including the underlying concepts, models, assumptions, interdisciplinary approaches, appropriate consideration of the gender dimension in research and innovation content, and the quality of open science practices, including sharing and management of research outputs and engagement of citizens, civil society and end users where appropriate
+
+[Horizon Europe Programme - Standard Application Form (HE RIA, IA)](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf) Version 3, 26 May
 
 #### Research Data Management (RDM)
 "Research data management and management of other research outputs: Applicants generating/collecting data and/or other research outputs (except for publications) during the project must provide maximum 1 page on how the data/ research outputs will be managed in line with the FAIR principles (Findable, Accessible, Interoperable, Reusable), addressing the following (the description should be specific to your project)"
