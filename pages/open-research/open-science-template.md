@@ -13,12 +13,18 @@ permalink: /open-research/open-science-template/
 
 Some open science practices are mandatory for all beneficiaries per the grant agreement. They concern:
 
-* open access to scientific publications under the conditions required by the grant agreement
+* _open access to scientific publications under the conditions required by the grant agreement_
 
-Immediate OA under gold OR green for subscription / no hybrid? Embargoes apply?
+The beneficiaries must ensure open access to peer-reviewed scientific publications relating to their results. In particular, they must ensure that:  
+
+* at the latest at the time of publication, a machine-readable electronic copy of the published version or the final peer-reviewed manuscript accepted for publication, is deposited in a trusted repository for scientific publications  
+
+* immediate open access is provided to the deposited publication via the repository, under the latest available version of the Creative Commons Attribution International Public Licence (CC BY) or a licence with equivalent rights; for monographs and other long-text formats, the licence may exclude commercial uses and derivative works (e.g. CC BY-NC, CC BY-ND) and  
+
+* information is given via the repository about any research output or any other tools and instruments needed to validate the conclusions of the scientific publication. Beneficiaries (or authors) must retain sufficient intellectual property rights to comply with the open access requirements. 
 
 
-* responsible management of research data in line with the FAIR principles of Findability’, ‘Accessibility’, ‘Interoperability’ and ‘Reusability’, notably through the generalised use of data management plans, and open access to research data under the principle ‘as open as possible, as closed as necessary’, under the conditions required by the grant agreement
+* _responsible management of research data in line with the FAIR principles of Findability’, ‘Accessibility’, ‘Interoperability’ and ‘Reusability’, notably through the generalised use of data management plans, and open access to research data under the principle ‘as open as possible, as closed as necessary’, under the conditions required by the grant agreement_
 
 See [RDM template text](https://handbook.researchdata.leeds.ac.uk/open-research/rdm-template/)
 
