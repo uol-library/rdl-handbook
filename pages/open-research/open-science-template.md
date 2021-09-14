@@ -52,7 +52,7 @@ How does this work in respect to publisher copyright / T&C?
 
 Reproducibility and associated data sharing are often considered primarily from a STEM perspective. You should also consider what additional material you can share when conducting qualitative research which can act as a check on overly subjective interpretation. In the context of qualitative research, there may be additional ethical considerations around informed participant consent to collect, archive and disseminate material.
 
-Further reading: 
+*Further reading:* 
 
 Tamarinde L. Haven & Dr. Leonie Van Grootel (2019) Preregistering qualitative research, Accountability in Research, 26:3, 229-244, DOI: [10.1080/08989621.2019.1580147](https://doi.org/10.1080/08989621.2019.1580147)
 
@@ -79,6 +79,11 @@ Tamarinde L. Haven & Dr. Leonie Van Grootel (2019) Preregistering qualitative re
 
 #### Preregistration (specifying a research plan in advance of a study and submitting it to a registry)
 
+Essentially, preregistration is about planning well in advance. It can help avoid so called 'questionable research practices' by making explicit the difference between confirmatory (hypothesis testing) and exploratory (hypothesis generating) research. "Questionable research practices' can arise when exploratory findings are presented as confirmatory research.  
+
+In many areas of health science, pre-registration is already a standard approach that is increasingly being utilised across a wide range of disciplines including qualitative research.
+
+Two free registry services for preregistration are the [Open Science Framework](https://osf.io/prereg/) and [AsPredicted](https://aspredicted.org/).
 
 #### Registered reports (publishing format emphasising the importance of the research question and the quality of methodology by conducting peer review prior to data collection)
 
