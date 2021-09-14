@@ -38,8 +38,11 @@ Only publication fees in full open access venues for peer-reviewed scientific pu
 
 #### information about the research outputs/tools/instruments needed to validate the conclusions of scientific publications or to validate/re-use research data digital or physical access to the results needed to validate the conclusions of scientific publications, unless exceptions apply
 
-It is important that all your research outputs including data, code and methodology are available to fully rerun analyses. This will increase the transparency of your research and help ensure that other researchers can validate your results. The specific material you will need to share depends on the nature of your research and will require academic judgement. It may include documentation of proprietary software, tools and instruments. Simply stating that data or code is available on request is insufficient.
+In addition to the final publication, it is important that all your research outputs including data, code and methodology are available to fully rerun analyses. This will increase the transparency of your research and help ensure that other researchers can validate your results. The specific material you will need to share depends on the nature of your research and will require academic judgement. It may include documentation of proprietary software, tools and instruments. Simply stating that data or code is available on request is insufficient.
 
+_Further reading:_
+
+[The Turing Way Guide for Reproducible Research](https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html)
 
 #### in cases of public emergency, if requested by the granting authority, immediate open access to all research outputs under open licenses or, if exceptions apply, access under fair and reasonable conditions to legal entities that need the research outputs to address the public emergency
 
