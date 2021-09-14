@@ -82,7 +82,7 @@ Tamarinde L. Haven & Dr. Leonie Van Grootel (2019) Preregistering qualitative re
 
 #### Preregistration (specifying a research plan in advance of a study and submitting it to a registry)
 
-Essentially, preregistration is about planning well in advance. It can help avoid so called 'questionable research practices' by making explicit the difference between confirmatory (hypothesis testing) and exploratory (hypothesis generating) research. Questionable research practices can arise when exploratory findings are presented as confirmatory research.  
+Preregistration is about planning and documentation in advance of carrying out your research. It can help avoid so called 'questionable research practices' by making explicit the difference between confirmatory (hypothesis testing) and exploratory (hypothesis generating) research. Questionable research practices can arise when exploratory findings are presented as confirmatory research.  
 
 In many areas of health science, pre-registration is already a standard approach that is increasingly being utilised across a wide range of disciplines including qualitative research.
 
