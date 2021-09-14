@@ -84,9 +84,11 @@ Text
 
 #### Open Materials (any ancillary research materials such as protocols, proposals, stimuli, codebooks etc. published online)
 
+Text
 
 #### Open / electronic lab notebooks (designed to replace paper laboratory notebooks and published online)
 
+Text
 
 #### Preregistration (specifying a research plan in advance of a study and submitting it to a registry)
 
