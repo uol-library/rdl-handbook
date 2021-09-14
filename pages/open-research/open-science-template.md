@@ -50,6 +50,11 @@ How does this work in respect to publisher copyright / T&C?
 
 #### Open qualitative data for research documentation or further use e.g. Open interview transcripts / workshop notes
 
+Reproducibility and associated data sharing are often considered primarily from a STEM perspective. You should also consider what additional material you can share when conducting qualitative research which can act as a check on overly subjective interpretation. In the context of qualitative research, there may be additional ethical considerations around informed participant consent to collect, archive and disseminate material.
+
+Further reading: 
+
+Tamarinde L. Haven & Dr. Leonie Van Grootel (2019) Preregistering qualitative research, Accountability in Research, 26:3, 229-244, DOI: [10.1080/08989621.2019.1580147](https://doi.org/10.1080/08989621.2019.1580147)
 
 #### Open analysis code (analytical code for data analysis that anyone can inspect, modify, and enhance)
 
