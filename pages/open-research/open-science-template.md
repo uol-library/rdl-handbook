@@ -6,38 +6,68 @@ index: true
 permalink: /open-research/open-science-template/
 ---
 
-### Completing the "Research data management and management of other research outputs" section
+### Describe how appropriate open science practices are implemented as an integral part of the proposed methodology 
+### Describe how the choice of practices are adapted to the nature of your work, in a way that will increase the chances of the project delivering on its objectives
 
-In addition to your approach to data managemet, your “Research data management and management of other research outputs” plan of no more than **1 page** should address which open science practices you will be implementing as an integral part of your methodology. Always check any specific requirements for the call you are applying to.
+#### Mandatory open science practices 
 
-Make sure your plan is consistent with information provided elsewhere in your bid, including your ethics self-assessment and any plans you have outlined for management of intellectual property. 
+Some open science practices are mandatory for all beneficiaries per the grant agreement. They concern:
 
-Use your plan to demonstrate:
-1. Your approach to data is consistent with the FAIR principles. That means your data and other associated materials are Findable, Accessible, Interoperable and Reusable. 
-2. Your data will be shared openly unless there are legitimate reasons to restrict access to it. You are demonstrating that your data is “as open as possible, as closed as necessary”.
-3. Describe how appropriate open science practices are implemented and how the choice of practices are adapted to the nature of your work, in a way that will increase the chances of the project delivering on its objectives. 
+* open access to scientific publications under the conditions required by the grant agreement
 
-**If you believe that none of these practices are appropriate for your project, please provide a justification here.**
+Immediate OA under gold OR green for subscription / no hybrid? Embargoes apply?
+
+* responsible management of research data in line with the FAIR principles of Findability’, ‘Accessibility’, ‘Interoperability’ and ‘Reusability’, notably through the generalised use of data management plans, and open access to research data under the principle ‘as open as possible, as closed as necessary’, under the conditions required by the grant agreement
+
+Link to RDM template
+
+* information about the research outputs/tools/instruments needed to validate the conclusions of scientific publications or to validate/re-use research data digital or physical access to the results needed to validate the conclusions of scientific publications, unless exceptions apply
+
+Some boilerplate
+
+* in cases of public emergency, if requested by the granting authority, immediate open access to all research outputs under open licenses or, if exceptions apply, access under fair and reasonable conditions to legal entities that need the research outputs to address the public emergency
+
+How does this work in respect to publisher copyright / T&C?
+
+#### Recommended open science practices
+
+* Open qualitative data for research documentation or further use e.g. Open interview transcripts / workshop notes
 
 
-make publications available open access
+* Open analysis code (analytical code for data analysis that anyone can inspect, modify, and enhance)
 
-make underlying data relating to publications openly available wherever possible
 
-where data cannot be fully open, it should be FAIR (Findable, Accessible, Interoperable, Reusable)
+* Open software code (source code for software that anyone can inspect, modify, and enhance)
 
-share protocols and methodologies
 
-share software and code
+* Preprints i.e. version of a scholarly or scientific paper published online before formal peer review and publication
 
-share negative results to prevent unnecessary repetition of research
 
-establish rights for (archival) source material to be digitised and shared where possible
+* Open licences (e.g. CC-BY, MIT licence) (public license that specifies what can and cannot be done with a work, stating permissions and restrictions)
 
-apply appropriate licences to your open material eg Creative Commons
 
-use persistent identifiers consistently throughout your workflow eg DOI and ORCID
+* Open Peer Review (review mechanism disclosing author and referee identities to one another at any point during the peer review or publication process)
 
-exploit online tools to aid collaboration including blogging, social media, altmetrics, pre-print servers
 
-consider ‘citizen science’ approaches where appropriate.
+* Open Materials (any ancillary research materials such as protocols, proposals, stimuli, codebooks etc. published online)
+
+
+* Open / electronic lab notebooks (designed to replace paper laboratory notebooks and published online)
+
+
+* Preregistration (specifying a research plan in advance of a study and submitting it to a registry)
+
+
+* Registered reports (publishing format emphasising the importance of the research question and the quality of methodology by conducting peer review prior to data collection)
+
+
+* Collaborative writing tools (online platforms to facilitate real time collaboration on documents or projects)
+
+
+* Alternative metrics (altmetrics) (a type of data that helps people understand how research is discussed online. Complementary to traditional bibliometrics like citation counts)
+
+
+* Open Educational Resources (freely accessible, openly licensed text, media, and other digital assets for use in teaching, learning, and assessment as well as for research purposes)
+
+
+* Citizen science
