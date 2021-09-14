@@ -61,18 +61,26 @@ Tamarinde L. Haven & Dr. Leonie Van Grootel (2019) Preregistering qualitative re
 
 #### Open analysis code (analytical code for data analysis that anyone can inspect, modify, and enhance)
 
+Text
+
 
 #### Open software code (source code for software that anyone can inspect, modify, and enhance)
+
+Text
 
 
 #### Preprints i.e. version of a scholarly or scientific paper published online before formal peer review and publication
 
+Text
 
 #### Open licences (e.g. CC-BY, MIT licence) (public license that specifies what can and cannot be done with a work, stating permissions and restrictions)
+
+Text
 
 
 #### Open Peer Review (review mechanism disclosing author and referee identities to one another at any point during the peer review or publication process)
 
+Text
 
 #### Open Materials (any ancillary research materials such as protocols, proposals, stimuli, codebooks etc. published online)
 
@@ -94,14 +102,24 @@ Leeds Library Blog: [Preregistration and the architecture of open science](https
 
 #### Registered reports (publishing format emphasising the importance of the research question and the quality of methodology by conducting peer review prior to data collection)
 
+Text
+
 
 #### Collaborative writing tools (online platforms to facilitate real time collaboration on documents or projects)
+
+Text
 
 
 #### Alternative metrics (altmetrics) (a type of data that helps people understand how research is discussed online. Complementary to traditional bibliometrics like citation counts)
 
+Text
+
 
 #### Open Educational Resources (freely accessible, openly licensed text, media, and other digital assets for use in teaching, learning, and assessment as well as for research purposes)
 
+Text
 
-#### Citizen science
+
+#### Citizen, civil society and end-user engagement
+
+Text
