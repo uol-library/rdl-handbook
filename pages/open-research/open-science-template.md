@@ -6,122 +6,67 @@ index: true
 permalink: /open-research/open-science-template/
 ---
 
-#### Describe how appropriate open science practices are implemented as an integral part of the proposed methodology 
-#### Describe how the choice of practices are adapted to the nature of your work, in a way that will increase the chances of the project delivering on its objectives
+##### 1. Describe how appropriate open science practices are implemented as an integral part of the proposed methodology 
+##### 2. Describe how the choice of practices are adapted to the nature of your work, in a way that will increase the chances of the project delivering on its objectives
 
 ### Mandatory open science practices 
 
-Some open science practices are mandatory for all beneficiaries per the grant agreement. They concern:
+#### 1. open access to scientific publications under the conditions required by the grant agreement
 
-#### open access to scientific publications under the conditions required by the grant agreement
+**Criteria:**
 
-The beneficiaries must ensure open access to peer-reviewed scientific publications relating to their results. In particular, they must ensure that:  
+•	by the time of publication, **a machine-readable electronic copy of the published version**
 
-* at the latest at the time of publication, a machine-readable electronic copy of the published version or the final peer-reviewed manuscript accepted for publication, is deposited in a trusted repository for scientific publications  
+#### OR 
 
-* immediate open access is provided to the deposited publication via the repository, under the latest available version of the Creative Commons Attribution International Public Licence (CC BY) or a licence with equivalent rights; for monographs and other long-text formats, the licence may exclude commercial uses and derivative works (e.g. CC BY-NC, CC BY-ND) and  
+•	the **final peer-reviewed manuscript accepted for publication** is deposited in a repository and immediately available open access under [Creative Commons Attribution International Public Licence (CC-BY)](https://creativecommons.org/licenses/by/4.0/)
 
-* information is given via the repository about any research output or any other tools and instruments needed to validate the conclusions of the scientific publication. Beneficiaries (or authors) must retain sufficient intellectual property rights to comply with the open access requirements. 
+•	for **monographs and other long-text formats**, the licence may exclude commercial uses and derivative works (e.g. [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/), [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)) 
 
-Beneficiaries (or authors) must retain sufficient intellectual property rights to comply with the open access requirements. 
+•	authors must retain sufficient intellectual property rights to comply with the open access requirements.
 
-Only publication fees in full open access venues for peer-reviewed scientific publications are eligible for reimbursement. 
+• Only publication fees in full open access venues for peer-reviewed scientific publications are eligible for reimbursement.
 
 ##### Suggested text:
-"The authors' accepted manuscript (AAM) will be deposited into the White Rose repository on acceptance for publication. This will apply both to fully OA journals and for subscription and hybrid journals. For subscription and hybrid venues, during submission we will include a statement advising the publisher that 'This research was funded, in whole or in part, by the Horizon Europe Programme [grant number]. For the purpose of open access, the author has applied a CC-BY public copyright licence to any Author Accepted Manuscript (AAM) version arising from this submission'.
+"The authors' accepted manuscript (AAM) will be deposited into the White Rose repository on acceptance for publication. This will apply to both fully OA journals and for subscription and hybrid journals. For subscription and hybrid venues, during submission we will include a statement advising the publisher that **'This research was funded, in whole or in part, by the Horizon Europe Programme [grant number]. For the purpose of open access, the author has applied a CC-BY public copyright licence to any Author Accepted Manuscript (AAM) version arising from this submission'.**
 
 
-#### responsible management of research data in line with the FAIR principles of Findability’, ‘Accessibility’, ‘Interoperability’ and ‘Reusability’, notably through the generalised use of data management plans, and open access to research data under the principle ‘as open as possible, as closed as necessary’, under the conditions required by the grant agreement
+#### 2.	responsible management of research data in line with the FAIR principles and open access to research data under the principle ‘as open as possible, as closed as necessary’
 
 * If you are generating or reusing research data, you can include a data management plan of up to 1 page in your application. See [RDM template text](https://handbook.researchdata.leeds.ac.uk/open-research/rdm-template/)
 
 
-#### information about the research outputs/tools/instruments needed to validate the conclusions of scientific publications or to validate/re-use research data digital or physical access to the results needed to validate the conclusions of scientific publications, unless exceptions apply
+#### 3.	information about the research outputs/tools/instruments needed to validate the conclusions of scientific publications or to validate/re-use research data. 
 
-In addition to the final publication, it is important that all your research outputs including data, code and methodology are available to fully rerun analyses. This will increase the transparency of your research and help ensure that other researchers can validate your results. The specific material you will need to share depends on the nature of your research and will require academic judgement. It may include documentation of proprietary software, tools and instruments. Simply stating that data or code is available on request is insufficient.
+“All our research outputs including data, code and methodology will be made available to fully rerun analyses. This will ensure the transparency of our research methods and help ensure that other researchers can validate the results.” 
 
-_Further reading:_
+**Note: The specific material you will need to share depends on the nature of your research and will require academic judgement. It may include documentation of proprietary software, tools and instruments. Simply stating that data or code is available on request is insufficient.**
 
-[The Turing Way Guide for Reproducible Research](https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html)
-
-#### in cases of public emergency, if requested by the granting authority, immediate open access to all research outputs under open licenses or, if exceptions apply, access under fair and reasonable conditions to legal entities that need the research outputs to address the public emergency
-
-How does this work in respect to publisher copyright / T&C?
-
+Always read the call: **Some open science practices are mandatory per specific work programmes or call conditions.**
 
 ### Recommended open science practices
 
-#### Open qualitative data for research documentation or further use e.g. Open interview transcripts / workshop notes
+#### Early and open sharing 
+Provide specific information on whether and how you will implement early and open sharing and for which part of your expected output. What type of early and open sharing is appropriate for your discipline and project? 
+##### Preprints
+##### Preregistration
+##### Registered reports
 
-Reproducibility and associated data sharing are often considered primarily from a STEM perspective. You should also consider what additional material you can share when conducting qualitative research which can act as a check on overly subjective interpretation. In the context of qualitative research, there may be additional ethical considerations around informed participant consent to collect, archive and disseminate material.
+#### Reproducibility of research outputs
 
-*Further reading:* 
+##### transparent research design
+##### robustness of statistical analyses
+##### addressing negative results
 
-Tamarinde L. Haven & Dr. Leonie Van Grootel (2019) Preregistering qualitative research, Accountability in Research, 26:3, 229-244, DOI: [10.1080/08989621.2019.1580147](https://doi.org/10.1080/08989621.2019.1580147)
+**Further reading:**
+[The Turing Way Guide for Reproducible Research](https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html)
 
-#### Open analysis code (analytical code for data analysis that anyone can inspect, modify, and enhance)
-
-Text
-
-
-#### Open software code (source code for software that anyone can inspect, modify, and enhance)
-
-Text
-
-
-#### Preprints i.e. version of a scholarly or scientific paper published online before formal peer review and publication
-
-Text
-
-#### Open licences (e.g. CC-BY, MIT licence) (public license that specifies what can and cannot be done with a work, stating permissions and restrictions)
-
-Text
-
-
-#### Open Peer Review (review mechanism disclosing author and referee identities to one another at any point during the peer review or publication process)
-
-Text
-
-#### Open Materials (any ancillary research materials such as protocols, proposals, stimuli, codebooks etc. published online)
-
-Text
-
-#### Open / electronic lab notebooks (designed to replace paper laboratory notebooks and published online)
-
-Text
-
-#### Preregistration (specifying a research plan in advance of a study and submitting it to a registry)
-
-Preregistration is about planning and documentation in advance of carrying out your research. It can help avoid so called 'questionable research practices' by making explicit the difference between confirmatory (hypothesis testing) and exploratory (hypothesis generating) research. Questionable research practices can arise when exploratory findings are presented as confirmatory research.  
-
-In many areas of health science, pre-registration is already a standard approach that is increasingly being utilised across a wide range of disciplines including qualitative research.
-
-Two free registry services for preregistration are the [Open Science Framework](https://osf.io/prereg/) and [AsPredicted](https://aspredicted.org/).
-
-_Further reading_
-
-Leeds Library Blog: [Preregistration and the architecture of open science](https://leedsunilibrary.wordpress.com/2021/07/30/preregistration-and-the-architecture-of-open-science/)
-
-#### Registered reports (publishing format emphasising the importance of the research question and the quality of methodology by conducting peer review prior to data collection)
-
-Text
-
-
-#### Collaborative writing tools (online platforms to facilitate real time collaboration on documents or projects)
-
-Text
-
-
-#### Alternative metrics (altmetrics) (a type of data that helps people understand how research is discussed online. Complementary to traditional bibliometrics like citation counts)
-
-Text
-
-
-#### Open Educational Resources (freely accessible, openly licensed text, media, and other digital assets for use in teaching, learning, and assessment as well as for research purposes)
-
-Text
-
+#### Open peer review
 
 #### Citizen, civil society and end-user engagement
 
-Text
+
+
+
+
+
