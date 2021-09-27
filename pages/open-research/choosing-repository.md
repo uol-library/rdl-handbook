@@ -22,7 +22,7 @@ General-purpose repositories or institutional repositories that present the esse
 * meet accepted (inter)national criteria for security to prevent unauthorized access and release of content 
 * have different levels of security depending on the sensitivity of deposited data 
 
-**Please note that, while the Research Data Leeds repository does not currently hold formal certification, it meets all these criteria. 
+** Please note that, while the Research Data Leeds repository does not currently hold formal certification, it meets all these criteria. 
 **
 
 ### Research publications
