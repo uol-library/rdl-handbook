@@ -6,10 +6,11 @@ index: true
 permalink: /open-research/choosing-repository/
 ---
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Type of material      | Potential repository        | Comments               |
+| --------------------- | --------------------------- | --------               |
+| Publications          | White Rose Research Online  | --------               |
+| Data                  | Research Data Leeds         | No formal certification. Will meet requirements unless EOSC specified in call |
+| Software & Code       | GitHub                      | Link to Zenodo to provide DOI |
 
 ### Trusted Repository status
 
