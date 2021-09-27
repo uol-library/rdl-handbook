@@ -6,6 +6,11 @@ index: true
 permalink: /open-research/choosing-repository/
 ---
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 ### Trusted Repository status
 
 **Trusted repositories are:**
