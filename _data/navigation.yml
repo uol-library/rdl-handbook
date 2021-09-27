@@ -164,6 +164,8 @@ sections:
         url: /open-research/rdm-template/
       - title: Open Science template text
         url: /open-research/open-science-template/
+      - title: Choosing a repository
+        url: /open-research/choosing-repository/
 
 # Section Calls to action
 # These are located under the section menu to the left of content on larger screens and under the page content on
