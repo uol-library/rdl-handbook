@@ -9,7 +9,7 @@ permalink: /open-research/choosing-repository/
 ### Trusted Repository status
 
 **Trusted repositories are:**
-Certified repositories (e.g. CoreTrustSeal, nestor Seal DIN31644, ISO16363) or disciplinary and domain repositories commonly used and endorsed by the research communities. Such repositories should be recognised internationally.
+Certified repositories (e.g. [CoreTrustSeal](https://www.coretrustseal.org/), [nestor Seal DIN31644](https://www.langzeitarchivierung.de/Webs/nestor/EN/Zertifizierung/nestor_Siegel/siegel.html), [ISO16363](https://www.iso.org/standard/56510.html)) or disciplinary and domain repositories commonly used and endorsed by the research communities. Such repositories should be recognised internationally.
 
 General-purpose repositories or institutional repositories that present the essential characteristics of trusted repositories:
 
