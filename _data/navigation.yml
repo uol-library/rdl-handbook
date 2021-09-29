@@ -223,8 +223,6 @@ footermenus:
         url: /email-templates/
       - title: Statistics
         url: /statistics/
-      - title: GitHub repository
-        url: https://github.com/uol-library/rdl-handbook
 
 # Footer Information consists of links to key pages on the site.
 # Each site should have its own Accessibility and Privacy pages
