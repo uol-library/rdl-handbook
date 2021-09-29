@@ -20,7 +20,7 @@ Research data will be offered for inclusion in the UK Data Archive; if not inclu
 
 ## Preservation Formats
 
-[The Digital Preservation Coalition's Technology Watch publications](https://www.dpconline.org/digipres/discover-good-practice/tech-watch-reports) provide authoritative guidance on a variety of digital preservation topics chosen by Coalition members. They are designed to inform our membership, and those in the wider community, in an accessible and easily digestible manner. It includes guidance noteson the digital preservation of a wide variety of file formats.
+[The Digital Preservation Coalition's Technology Watch publications](https://www.dpconline.org/digipres/discover-good-practice/tech-watch-reports) provide authoritative guidance on a variety of digital preservation topics. They include guidance notes on the digital preservation of a wide variety of file formats.
 
 ### Video 
 
