@@ -20,6 +20,8 @@ Research data will be offered for inclusion in the UK Data Archive; if not inclu
 
 ## Preservation Formats
 
+[The Digital Preservation Coalition's Technology Watch publications](https://www.dpconline.org/digipres/discover-good-practice/tech-watch-reports) provide authoritative guidance on a variety of digital preservation topics. They include guidance notes on the digital preservation of a wide variety of file formats.
+
 ### Video 
 
 For long term preservation of the video data, we will look to use open codecs such as JPEG-2000 (MJ2) in an MXF or AVI wrapper to store the data in the University research data repository. 
