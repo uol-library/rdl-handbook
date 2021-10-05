@@ -6,9 +6,9 @@ index: true
 permalink: /repository-guide/
 ---
 
-_Either_ to underpin a research publication  
+**Either** to underpin a research publication  
 
-_Or_ Because of the intrinsic value of the data  
+**Or** because of the intrinsic value of the data  
 
 It is your decision what makes up the 'dataset' associated with your published paper. Here's an example:  
 
@@ -22,4 +22,4 @@ The expectation is that where the findings in your paper are supported by data y
 
 Research data can be a primary research output in its own right. It is expected that this data will be shared as openly as possible, citable with a permanent identifier such as a DOI, and be stored with metadata and sufficient contextual information to support discovery and reuse.  
 
-> “As open as possible, as closed as necessary”
+> As open as possible, as closed as necessary
