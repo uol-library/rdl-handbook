@@ -19,14 +19,6 @@
                     <a href="{{ menuitem.url | absolute_url }}" class="nav-list-group__link">{{ menuitem.title }}</a>
                   </li>
                 {% endfor %}
-                {% if menu.title == "Tools and Utilities" %}
-                  <li class="nav-list-group__item">
-                    <a href="{{ site.github.repository_url }}" class="nav-list-group__link">GitHub repository</a>
-                  </li>
-                  <li class="nav-list-group__item">
-                    <a href="{{ site.github.repository_url }}/edit/main/{{ page.path }}" class="nav-list-group__link">Edit this page</a>
-                  </li>
-                {%-endif -%}
                 </ul>
               </nav>
             </div>
