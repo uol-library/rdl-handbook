@@ -139,8 +139,8 @@ sections:
             url: /data-management/documentation-and-metadata/
           - title: Ethics and Legal Compliance
             url: /data-management/ethics-and-legal-compliance/
-          - title: Storage and Backup
-            url: /data-management/storage-and-backup/
+#          - title: Storage and Backup
+#            url: /data-management/storage-and-backup/
           - title: Selection and Preservation
             url: /data-management/selection-and-preservation
           - title: Data Sharing
