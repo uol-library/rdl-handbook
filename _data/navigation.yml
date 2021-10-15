@@ -61,10 +61,6 @@ mainmenu:
     url: /data-management/
   - title: Open Research
     url: /open-research/
-  - title: Templates
-    url: /templates/
-  - title: Statistics
-    url: /statistics/
 
 #  - title: 
 #    items:
@@ -131,7 +127,7 @@ sections:
         url: /data-management/
       - title: What is a Data Management Plan (DMP)?
         url: /data-management/what-is-a-dmp/
-      - title: DMP Boilerplate
+      - title: Writing a Data Management Plan
         items:
           - title: Data Collection
             url: /data-management/data-collection/
@@ -139,8 +135,6 @@ sections:
             url: /data-management/documentation-and-metadata/
           - title: Ethics and Legal Compliance
             url: /data-management/ethics-and-legal-compliance/
-#          - title: Storage and Backup
-#            url: /data-management/storage-and-backup/
           - title: Selection and Preservation
             url: /data-management/selection-and-preservation
           - title: Data Sharing
