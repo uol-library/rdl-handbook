@@ -6,9 +6,17 @@ index: true
 permalink: /repository-guide/choosing-a-repository/
 ---
 
+You have several choices when it is time to deposit your data. Which repository you decide to use will be informed by who your funder is, what they require, and the reputation of the repository.
+
+For information about choosing a repository for Open Research data, please see our [Open Research section]({{ site.baseurl }}{% link pages/open-research/choosing-repository.md %})
+
+If your funder has specified a particular repository, then you should deposit your data with the recommended service. The [SHERPA JULIET database](https://v2.sherpa.ac.uk/juliet/){:target="_blank"} provides a summary of the data archiving policies of several funders.
+
+Deposit your data in our [Research Data Leeds repository]({{ site.baseurl }}{% link pages/repository-guide/deposit-with-leeds.md %}) if your research is funded by any of the UK Research Councils, Wellcome Trust, CRUK or Horizon 2020, and they have not specified another repository. If you have data which cannot be shared openly, deposit it in [RADAR]({{ site.baseurl }}{% link pages/repository-guide/radar.md %}).
+
 ## Is your data already in another repository?
 
-If your data is already available in the UK Data Service, there is no need to deposit it again with the Research Data Leeds repository. Make sure there is a citation to the data in the UK Data Service in your paper References list.
+If your data is already available in the [UK Data Service](https://ukdataservice.ac.uk/){:target="_blank"}, there is no need to deposit it again with the Research Data Leeds repository. Make sure there is a citation to the data in the UK Data Service in your paper References list.
 
 ## Repository for code 
 

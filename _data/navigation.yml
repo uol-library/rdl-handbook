@@ -89,6 +89,8 @@ sections:
         url: /repository-guide/choosing-a-repository/
       - title: Deposit with Research Data Leeds
         url: /repository-guide/deposit-with-leeds/
+      - title: RADAR - restricted access repository
+        url: /repository-guide/radar/
       - title: Deposit with UKDS via ReShare
         url: /repository-guide/deposit-with-ukds/
   processes:
@@ -96,30 +98,16 @@ sections:
     items:
       - title: Repository Policies
         url: /policies-processes/
-      - title: RADAR
-        url: /policies-processes/radar/
       - title: Dataset Preparation
         items: 
-          - title: DOI Suitability 
-            url: /policies-processes/doi-suitability/
-          - title: Assigning DOIs
-            url: /policies-processes/assigning-dois/
           - title: Creating a README file
             url: /policies-processes/creating-a-readme/
           - title: File Names
             url: /policies-processes/file-preparation/
           - title: Handling zipped archives
             url: /policies-processes/zip-files/
-          - title: Creating manifests 
-            url: /policies-processes/creating-manifests/
           - title: Making HPC data available
             url: /policies-processes/hpc-data/
-      - title: Dataset Ingestion
-        items:
-          - title: Preparing the spreadsheet
-            url: /policies-processes/preparing-spreadsheet/
-          - title: Hybrid Ingestion
-            url: /policies-processes/hybrid-ingestion/
   dmp:
     title: Data Management
     items:
