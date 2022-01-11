@@ -7,6 +7,41 @@ backend:
 media_folder: "uploads"
 
 collections:
+  # - name: "home"
+  #   label: "Home page"
+  #   folder: "pages/"
+  #   create: true
+  #   preview: false
+  #   slug: "{{slug}}"
+  #   fields:
+  #     - {label: "Title", name: "title", widget: "string"}
+  #     - {label: "Body", name: "body", widget: "markdown"}
+  - name: "data-management"
+    label: "Data Management"
+    folder: "pages/data-management/"
+    create: true
+    preview: false
+    slug: "{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - {label: "Section Menu", name: "sectionmenu", widget: "hidden", default: "dmp"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Index", name: "index", widget: "hidden", default: true}
+      - {label: "URL", name: "permalink", widget: "string", default: "/data-management/", pattern: ['\/data-management\/[a-zA-Z0-9\-]+\/', 'Permalinks need to contain the directory name and folder name followed by a forward slash']}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "open-research"
+    label: "Open Research"
+    folder: "pages/open-research/"
+    create: true
+    preview: false
+    slug: "{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - {label: "Section Menu", name: "sectionmenu", widget: "hidden", default: "openresearch"}
+      - {label: "Index", name: "index", widget: "hidden", default: true}
+      - {label: "URL", name: "permalink", widget: "string", default: "/open-research/"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
     folder: "_posts/" # The path to the folder where the documents are stored
@@ -16,12 +51,4 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Tags", name: "tags", widget: "list"}
-      - {label: "Body", name: "body", widget: "markdown"}
-  - name: "data-management"
-    label: "Data Management"
-    folder: "pages/data-management/"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
