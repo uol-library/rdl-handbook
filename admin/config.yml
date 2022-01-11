@@ -4,7 +4,7 @@ backend:
   branch: main
   site_domain: trusting-meitner-035776.netlify.com
 
-media_folder: "images/uploads"
+media_folder: "uploads"
 
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
