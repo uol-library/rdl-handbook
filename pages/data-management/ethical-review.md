@@ -6,7 +6,7 @@ index: true
 permalink: /data-management/ethical-review/
 ---
 
-The University provides [information and guidance on good practice in ethics and ethical review](https://ris.leeds.ac.uk/research-ethics-and-integrity/ethics-and-ethical-review/).
+The University provides [information and guidance on good practice in ethics and ethical review](https://ris.leeds.ac.uk/research-ethics-and-integrity/ethics-and-ethical-review/) as well as [application forms, guidance notes and other resources](https://ris.leeds.ac.uk/research-ethics-and-integrity/university-ethical-review/).
 
 ##  Ethical Review & IT Assurance
 
