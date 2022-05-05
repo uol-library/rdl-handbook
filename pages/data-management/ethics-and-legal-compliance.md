@@ -6,7 +6,6 @@ index: true
 permalink: /data-management/ethics-and-legal-compliance/
 ---
 
-
 ## Intellectual Property (IP) 
 
 The intellectual property of the data generated will remain with the University of Leeds. However, the University policy of the management of research data requires all data arising from research projects to be made openly available where possible. (The research will not use any data which is covered by the Copyright, Designs and Patents Act 1988 or any other similar legislation.) 

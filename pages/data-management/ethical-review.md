@@ -6,21 +6,7 @@ index: true
 permalink: /data-management/ethical-review/
 ---
 
-All Research / Projects at the University of Leeds should have a Data Management Plan (DMP) in accordance with the [Research Data Management Policy](https://library.leeds.ac.uk/info/14062/research_data_management/68/research_data_management_policy) and the assurance given at Section 1.4 of your Ethical Review Application Form.
-
-Please see the package of resources below that include:
-
-* guidance on how to complete a DMP
-* a DMP template
-* safeguarding information, advice & guidance
-
-Once you have drafted a DMP, the Research Data Management Service at the University would be very happy to provide feedback on your DMP should you require this. Please email: [researchdataenquiries@leeds.ac.uk](mailto:researchdataenquiries@leeds.ac.uk).
-
-## Data safeguarding recommendations
-
-* [Writing a data management plan](https://library.leeds.ac.uk/info/14062/research_data_management/62/data_management_planning) (DMP)
-* [Download the University of Leeds DMP template](https://library.leeds.ac.uk/downloads/download/80/university_of_leeds_data_management_plan_template) (DOCX).
-* [Information Management Guide](https://dataprotection.leeds.ac.uk/wp-content/uploads/sites/48/2019/05/Information-Management-Guide.pdf)
+The University provides [information and guidance on good practice in ethics and ethical review](https://ris.leeds.ac.uk/research-ethics-and-integrity/ethics-and-ethical-review/).
 
 ##  Ethical Review & IT Assurance
 
@@ -28,9 +14,11 @@ As you are dealing with data undergoing ethical review, your data is best classi
 
 All projects that have data classified as either Tier 3 or 4 are guided to the university facilities for storing data during your research project and advice on security measures such as using encryption, particularly useful if you are gathering information in the field.
 
-If you have further questions in this area, please contact your:
+Examples of how commonly used data is classified can be found in the University’s [Information Management Guide](https://dataprotection.leeds.ac.uk/wp-content/uploads/sites/48/2019/05/Information-Management-Guide.pdf) and further details are available in the [Information Protection Policy](https://leeds.service-now.com/it?id=kb_article&sys_id=6038bfbc0fae728089d7f55be1050e9d).
 
-* [Business Relationship Manager](https://it.leeds.ac.uk/it/?id=kb_article&sys_id=1e7d25a5db7f130040b3789e3b9619c5)
+If you have further questions in this area, please contact:
+
+* [Business Relationship Management](https://it.leeds.ac.uk/it/?id=kb_article&sys_id=1e7d25a5db7f130040b3789e3b9619c5)
 * [IT Assurance Manager, Neil Favager](mailto:N.Favager@leeds.ac.uk)
 
 ## Consent, Contractual, Legal Agreements
