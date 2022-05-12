@@ -203,10 +203,8 @@ footermenus:
         url: https://library.leeds.ac.uk/info/14062/research_data_management/70/find_reuse_and_cite_data
   - title: Tools and Utilities
     items:
-      - title: Email Templates
-        url: /email-templates/
-      - title: Statistics
-        url: /statistics/
+      - title: RDL Manual (restricted access)
+        url: https://manual.researchdata.leeds.ac.uk/
 
 # Footer Information consists of links to key pages on the site.
 # Each site should have its own Accessibility and Privacy pages
