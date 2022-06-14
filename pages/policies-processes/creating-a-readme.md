@@ -18,6 +18,10 @@ An example of a policy describing these requirement is available here:
 
 <https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29WR.1943-5452.0000998>
 
+A README template with accompanying notes is available here:
+
+[University of Leeds README template]({{ site.baseurl }}{% link pages/policies-processes/readme-template.txt %})
+
 ### File formats
 
 Provide directions for how to open the files in the dataset.
