@@ -41,9 +41,9 @@ Please explain the contents of the data, eg. incluse units of measurement where 
 
 Does the material include the code/scripts used to clean the raw data and prepare it for modeling? Even if you can’t deposit the raw data, please share the scripts developed that processed and prepared the data for use eg in modeling.
 
-### Inclusion of third party data
+### Including third party data
 
-Ensure any third party material may be legally and ethically shared as part of your dataset. Full source credit and any rights statements should be given in the README
+Make sure any third party material may be legally and ethically shared before including it in your dataset. Include full source credit and any rights statements in the README.
 
 ## Anonymisation
 
