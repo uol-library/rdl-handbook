@@ -127,10 +127,6 @@ sections:
             url: /data-management/data-collection/
           - title: Documentation and Metadata
             url: /data-management/documentation-and-metadata/
-          - title: Ethics and Legal Compliance
-            url: /data-management/ethics-and-legal-compliance/
-          - title: Data Management Planning for Ethical Review
-            url: /data-management/ethical-review/
           - title: Selection and Preservation
             url: /data-management/selection-and-preservation
           - title: Data Sharing
