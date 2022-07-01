@@ -14,7 +14,7 @@ To improve the availability and reproducibility of work published, authors are r
 2. increase the quality of submissions; and   
 3. further encourage people to use and cite published work and is a step forward to allow readers, authors, and those in the field to practice more open and reproducible science.  
 
-An example of a policy describing these requirement is available here:
+An example of a policy from a publisher describing these requirement is available here:
 
 <https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29WR.1943-5452.0000998>
 
@@ -40,6 +40,10 @@ Describe the workflow so it starts with the raw model results, then works throug
 Please explain the contents of the data, eg. incluse units of measurement where values are presented in numeric formats.
 
 Does the material include the code/scripts used to clean the raw data and prepare it for modeling? Even if you can’t deposit the raw data, please share the scripts developed that processed and prepared the data for use eg in modeling.
+
+### Inclusion of third party data
+
+Ensure any third party material may be legally and ethically shared as part of your dataset. Full source credit and any rights statements should be given in the README
 
 ## Anonymisation
 
