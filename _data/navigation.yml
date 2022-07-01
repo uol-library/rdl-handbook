@@ -113,6 +113,10 @@ sections:
     items:
       - title: Data Management
         url: /data-management/
+      - title: Safeguarding/Ethics/Legal
+            url: /data-management/ethics-and-legal-compliance/
+          - title: Data Management Planning for Ethical Review
+            url: /data-management/ethical-review/
       - title: What is a Data Management Plan (DMP)?
         url: /data-management/what-is-a-dmp/
       - title: Writing a Data Management Plan
