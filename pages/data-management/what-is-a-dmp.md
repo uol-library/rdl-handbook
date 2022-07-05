@@ -8,7 +8,9 @@ permalink: /data-management/what-is-a-dmp/
 
 A Data Management Plan (DMP) is written in the early stages of the research project to establish good research practice in data management.  This will better ensure the proposed research is carried out as efficiently as possible, throughout the project’s lifetime and post project. The DMP will describe how the researcher(s) will collect, organise, analyse, preserve and share the data generated from their research.
 
-All Research / Projects at the University of Leeds should have a Data Management Plan (DMP) in accordance with the [Research Data Management Policy](https://library.leeds.ac.uk/info/14062/research_data_management/68/research_data_management_policy). Once you have drafted a DMP, the Research Data Management Service at the University would be very happy to provide feedback on your DMP should you require this. Please email: [researchdataenquiries@leeds.ac.uk](mailto:researchdataenquiries@leeds.ac.uk). 
+All Research / Projects at the University of Leeds should have a Data Management Plan (DMP) in accordance with the [Research Data Management Policy](https://library.leeds.ac.uk/info/14062/research_data_management/68/research_data_management_policy) and the assurance given at **Section 1.4 of your Ethical Review Application Form**.
+
+Once you have drafted a DMP, the Research Data Management Service at the University would be very happy to provide feedback on your DMP should you require this. Please email: [researchdataenquiries@leeds.ac.uk](mailto:researchdataenquiries@leeds.ac.uk). 
 
 * [Writing a data management plan](https://library.leeds.ac.uk/info/14062/research_data_management/62/data_management_planning)
 
