@@ -17,8 +17,8 @@ Once you have drafted a DMP, the Research Data Management Service at the Univers
 ## Templates
 
 * [University of Leeds DMP template](https://library.leeds.ac.uk/downloads/download/80/university_of_leeds_data_management_plan_template)
-* [Digital Curation Centre Template](https://dmponline.dcc.ac.uk/template_export/1638514350.pdf)
-* [Economic and Social research Council template](https://dmponline.dcc.ac.uk/template_export/1587551885.pdf)
+* [Digital Curation Centre DMPOnline](https://dmponline.dcc.ac.uk/) holds templates for many major research funders you can fill in online. DMPOnline also offers [examples of publicly shared data management plans](https://dmponline.dcc.ac.uk/public_plans)
+
 
 ## The data management plan will explain: 
 
