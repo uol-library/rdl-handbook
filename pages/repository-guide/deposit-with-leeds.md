@@ -33,7 +33,7 @@ We will then
  
 You will then 
 * complete the rest of the details in the excel file 
-* add your data files to the deposit folder 
+* add your data files to the deposit folder - ideally keep your files to 2GB or smaller and use filenames with no spaces
 * include the citation to the dataset with DOI in the publication if you are preparing one 
  
 We will then 
