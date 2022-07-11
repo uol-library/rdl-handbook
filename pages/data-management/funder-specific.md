@@ -36,9 +36,6 @@ The plan should be submitted as a Je-S attachment and be no longer than 2 pages.
 
 If awarded, the DMP should be reviewed at least once a year. 
 
-(Some boilerplate text is included in the AHRC/Leeds template on OneDrive. Don't send the link to the template but make sure the combined template is being used on OneDrive for AHRC/ESSL applicants. For others, send as an attachment / paste the boilerplate.  
-
-<https://leeds365-my.sharepoint.com/:w:/g/personal/hridmp_leeds_ac_uk/EZEooMqg4wtDnoNVHXvYIeUB-R39ZkBBaR2grZS301dIqA?e=wZHrbw>
 
 ## MRC
 

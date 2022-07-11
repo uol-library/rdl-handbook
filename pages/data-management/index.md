@@ -17,7 +17,7 @@ permalink: /data-management/
 
 ### During project (award stage)
 
-At award stage, no standard / boilerplate text should be used beyond what is already listed under Application stage. The researcher takes ownership of the plan and updates it accordingly. Questions which should be addressed at the award stage are addressed in the [DMP Policies and Processes handbook](https://workspace.leeds.ac.uk/sites/lib-rdl/_layouts/15/WopiFrame.aspx?sourcedoc=/sites/lib-rdl/Handbook/DMP_policies_and_processes&action=default). 
+At award stage, no standard / boilerplate text should be used beyond what is already listed under Application stage. The researcher takes ownership of the plan and updates it accordingly. Questions which should be addressed at the award stage are outlined in [What is a data management plan](https://handbook.researchdata.leeds.ac.uk/data-management/what-is-a-dmp/). 
 
 1. **Update the data management plan**
 2. [Store the data](http://library.leeds.ac.uk/info/14062/research_data_management/65/storing_and_handling_data)
