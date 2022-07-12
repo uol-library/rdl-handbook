@@ -119,10 +119,10 @@ sections:
             url: /data-management/ethics-and-legal-compliance/
           - title: Data Management Planning for Ethical Review
             url: /data-management/ethical-review/
-      - title: What is a Data Management Plan (DMP)?
-        url: /data-management/what-is-a-dmp/
       - title: Writing a Data Management Plan
         items:
+          - title: What is a Data Management Plan (DMP)?
+            url: /data-management/what-is-a-dmp/      
           - title: Data Collection
             url: /data-management/data-collection/
           - title: Documentation and Metadata
@@ -133,10 +133,10 @@ sections:
             url: /data-management/data-sharing/
           - title: Responsibilities and Resources
             url: /data-management/responsibilities-and-resources/
-      - title: Faculty Specific Information
-        url: /data-management/faculties/
-      - title: Funder specific Information
-        url: /data-management/funders/
+          - title: Faculty Specific Information
+            url: /data-management/faculties/
+          - title: Funder specific Information
+            url: /data-management/funders/
   openresearch:
     title: Open Research
     items: 
