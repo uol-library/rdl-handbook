@@ -139,10 +139,10 @@ sections:
             url: /data-management/funders/
       - title: Storing and Handling
         items:
-          - title: Data classification and planning       
+          - title: Data classification and planning
             url: /data-management/data-classification-and-planning/
           - title: University data storage
-            url: /data-management/university-data-storage/      
+            url: /data-management/university-data-storage/
   openresearch:
     title: Open Research
     items: 
