@@ -34,4 +34,4 @@ This is the only cloud-based facility which is approved for the storage of Unive
 
 Access is given to the individual researcher who can then share access and work on files collaboratively with colleagues both inside and outside the University
 
-The standard storage quota is 1 TB.
+The standard storage quota is 5 TB.
