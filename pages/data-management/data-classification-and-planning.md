@@ -1,3 +1,11 @@
+---
+layout: page
+sectionmenu: dmp
+title: Data Classification and Planning
+index: true
+permalink: /data-management/data-classification-and-planning/
+---
+
 Understanding your own data is the first step in planning for storage and security. Make sure you have classified the sensitivity of your data, and have planned for your storage needs.
 
 ### Classify your data
