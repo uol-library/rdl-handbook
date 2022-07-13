@@ -1,3 +1,11 @@
+---
+layout: page
+sectionmenu: dmp
+title: University data storage
+index: true
+permalink: /data-management/university-data-storage/
+---
+
 The University of Leeds has fully managed data storage that is available to all users. We recommend that you save or transfer your files to the University drives – M:drive, N:drive, and OneDrive-University of Leeds – whether on or off campus.
 
 The main causes of data loss are hardware failure (or loss) and user error. Storing your data in these managed and supported drives will help to reduce both the likelihood and scale of data loss that can occur.
