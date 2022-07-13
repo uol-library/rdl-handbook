@@ -3,7 +3,7 @@ layout: page
 sectionmenu: dmp
 title: Selection and Preservation
 index: true
-permalink: /data-management/selection-and-preservation
+permalink: /data-management/selection-and-preservation/
 ---
 
 The **[platform]** will be maintained by the University for a minimum period of **[5 years]** beyond the end of the funded project, although the plan will be to secure future funding to ensure that it has a long-term sustainable future. The costs for doing so will be both infrastructure related (annual costs for providing compute / SAN storage on central University infrastructure) and the staff time to support the platform on a day-to-day basis and manage any operating system upgrades / security patching, etc. 
