@@ -1,7 +1,7 @@
 ---
 layout: page
 sectionmenu: dmp
-title: Facukty and local storage
+title: Faculty and local storage
 index: true
 permalink: /data-management/faculty-and-local-storage/
 ---
