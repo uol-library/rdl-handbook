@@ -146,13 +146,13 @@ sections:
           - title: Portable devices and storage
             url: /data-management/portable-devices-and-storage/   
           - title: Faculty and local storage
-            url: /faculty-and-local-storage/
+            url: /data-management/faculty-and-local-storage/
           - title: Naming files and folder
-            url: /naming-files-and-folders/
+            url: /data-management/naming-files-and-folders/
           - title: Choosing file formats
-            url: /choosing-file-formats/
+            url: /data-management/choosing-file-formats/
           - title: Describing data
-            url: /describing-data/   
+            url: /data-management/describing-data/   
   openresearch:
     title: Open Research
     items: 
