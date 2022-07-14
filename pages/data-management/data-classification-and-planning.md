@@ -1,7 +1,7 @@
 ---
 layout: page
 sectionmenu: dmp
-title: Data Classification and Planning
+title: Data classification and planning
 index: true
 permalink: /data-management/data-classification-and-planning/
 ---
