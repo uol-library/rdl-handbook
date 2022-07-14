@@ -143,6 +143,8 @@ sections:
             url: /data-management/data-classification-and-planning/
           - title: University data storage
             url: /data-management/university-data-storage/
+          - title: Portable devices and storage
+            url: /data-management/portable-devices-and-storage/   
   openresearch:
     title: Open Research
     items: 
