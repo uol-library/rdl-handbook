@@ -1,3 +1,11 @@
+---
+layout: page
+sectionmenu: dmp
+title: Naming files and folders
+index: true
+permalink: /data-management/naming-files-and-folders/
+---
+
 You should use consistent, unique and descriptive file and folder names when saving research data. This will help you to keep track of your data files and share data among the team.
 
 To achieve this, you should develop naming conventions that the team can follow.
