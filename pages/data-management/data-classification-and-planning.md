@@ -30,7 +30,7 @@ Use your full data management plan to help you understand, identify and plan for
 
 * data characteristics eg volume, cost to reproduce, frequency of change
 * data back-up procedures, including all institutions/collaborations and transferring data generated in the field.
-* data access arrangements for local or external research collaborators
+* data access arrangements for local or external research collaborators or industrial partners
 * shared folder and file naming and versioning conventions across the team
 * allotted responsibility for the immediate day-to-day management, storage and backup of the research data.
 
