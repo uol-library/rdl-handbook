@@ -139,8 +139,8 @@ sections:
             url: /data-management/funders/
       - title: Storing and Handling
         items:
-          - title: Data classification and planning
-            url: /data-management/data-classification-and-planning/
+          - title: Data classification
+            url: /data-management/data-classification/
           - title: University data storage
             url: /data-management/university-data-storage/
           - title: Portable devices and storage
