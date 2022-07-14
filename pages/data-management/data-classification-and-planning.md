@@ -34,4 +34,4 @@ Use your full data management plan to help you understand, identify and plan for
 * shared folder and file naming and versioning conventions across the team
 * allotted responsibility for the immediate day-to-day management, storage and backup of the research data.
 
-### Don’t forget to keep your data management plan up to date.
+**Don’t forget to keep your data management plan up to date.**
