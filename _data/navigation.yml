@@ -162,9 +162,11 @@ sections:
           - title: Ways to share data
             url: /data-management/ways-to-share-data/   
           - title: Choosing a data repository
-            url: /choosing-a-data-repository/
+            url: /data-management/choosing-a-data-repository/
+          - title: Using a DOI for data citation
+            url: /data-management/using-a-doi-for-data-citation/                        
           - title: Write a data statement
-            url: /write-a-data-statement/            
+            url: /data-management/write-a-data-statement/            
   openresearch:
     title: Open Research
     items: 
