@@ -153,6 +153,18 @@ sections:
             url: /data-management/choosing-file-formats/
           - title: Describing data
             url: /data-management/describing-data/   
+      - title: Appraisal and Sharing
+        items:
+          - title: Select data to share
+            url: /data-management/select-data-to-share/
+          - title: Open and FAIR data
+            url: /data-management/open-and-fair-data/
+          - title: Ways to share data
+            url: /data-management/ways-to-share-data/   
+          - title: Choosing a data repository
+            url: /choosing-a-data-repository/
+          - title: Write a data statement
+            url: /write-a-data-statement/            
   openresearch:
     title: Open Research
     items: 
