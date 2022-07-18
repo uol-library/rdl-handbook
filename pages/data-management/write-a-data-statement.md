@@ -12,11 +12,13 @@ Your submitted manuscript should include a clearly labelled statement before the
 
 access to data, usually through a Digital Object Identifier (DOI)
 any terms of use, such as embargos, licences, data sharing agreements
-You might want to format your statement as a data citation or a simple statement, such as: "The data associated with this paper are openly available from the University of Leeds Data Repository. http<nolink>://doi.org/10.5518/5678abcd.”
+You might want to format your statement as a data citation or a simple statement, such as: 
+
+*"The data associated with this paper are openly available from the University of Leeds Data Repository. http<nolink>://doi.org/10.5518/5678abcd.”*
 
 Please note that an invitation to “contact the author” for the data will not meet research funder expectations.
 
-No associated or additional data
+### No associated or additional data
 For articles which have no associated data, the statement should read:
 
 *“No data are associated with this article.”*
