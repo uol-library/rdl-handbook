@@ -15,7 +15,7 @@ Deposit your data in our [Research Data Leeds repository](https://archive.resear
 
 In both cases, you should email the data DOI or URL to the University Research Data team.
 
-You can also deposit in a generic repository such as FigShare and Zenodo.
+You can also deposit in a generic repository such as [FigShare](https://figshare.com/) and [Zenodo](https://zenodo.org/).
 
 ### Check the quality of external repositories
 If you have found an external repository, and are unsure of whether it is of a suitable quality, there are some things to consider.
@@ -31,5 +31,5 @@ Ask yourself:
 * Can you apply an access embargo period if needed?
 * How long can data be stored?
 * Is the storage space sufficient?
-* 
-A useful checklist for evaluating data repositories is available from the Digital Curation Centre.
+
+A useful [checklist for evaluating data repositories](https://www.dcc.ac.uk/guidance/how-guides/where-keep-research-data) is available from the Digital Curation Centre.
