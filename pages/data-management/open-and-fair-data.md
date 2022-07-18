@@ -1,3 +1,10 @@
+---
+layout: page
+sectionmenu: dmp
+title: Open and FAIR data
+index: true
+permalink: /data-management/open-and-fair-data/
+---
 
 
 One of the challenges of making data openly available is to make it easily discoverable by others, so that it can be accessed, analysed and integrated into research, tasks and projects. FAIR data principles act as guidelines to enhance the reusability of your data. They focus on enhancing the ability of machines to automatically find and use the data, as well as individuals, and aim to promote good data management.
