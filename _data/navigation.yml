@@ -167,6 +167,18 @@ sections:
             url: /data-management/using-a-doi-for-data-citation/                        
           - title: Write a data statement
             url: /data-management/write-a-data-statement/            
+      - title: Find, reuse and cite data
+        items:
+          - title: Data sources
+            url: /data-management/data-sources/
+          - title: Reuse data
+            url: /data-management/reuse-data/
+          - title: Teaching with data
+            url: /data-management/teaching-with-data/   
+          - title: Cite data
+            url: /data-management/cite-data/
+          - title: Social media as data
+            url: /data-management/social-media-as-data/                         
   openresearch:
     title: Open Research
     items: 
