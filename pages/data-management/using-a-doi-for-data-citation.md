@@ -16,7 +16,7 @@ You can generate a DOI for your research data from the [Research Data Leeds repo
 Fill in this form with information about your research data and any significant deadlines (if you are publishing a paper). We aim to allocate a DOI within two working days.
 
 ### Provide a data DOI when you publish
-Include your data DOI(s) in your published work. DOIs should always be expressed as a clickable link in the form (**doi:10.1234/abcd**) or a full URL (**https<nolink>://doi.org/10.1234/abcd**).
+Include your data DOI(s) in your published work. DOIs should always be expressed as a clickable link in the form (**doi:10.1234/abcd**) or a full URL (**`https://doi.org/10.1234/abcd`**).
 
 ### DOI numbers broken down
 A DOI number begins with a 10 and contain a prefix and suffix separated by a slash.
