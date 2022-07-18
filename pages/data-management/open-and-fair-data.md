@@ -9,7 +9,8 @@ permalink: /data-management/open-and-fair-data/
 
 One of the challenges of making data openly available is to make it easily discoverable by others, so that it can be accessed, analysed and integrated into research, tasks and projects. FAIR data principles act as guidelines to enhance the reusability of your data. They focus on enhancing the ability of machines to automatically find and use the data, as well as individuals, and aim to promote good data management.
 
-# FAIR stands for: findable, accessible, interoperable, and reusable.
+### FAIR stands for: 
+findable, accessible, interoperable, and reusable.
 
 ### Findable
 Metadata and data should be easy to find for both humans and computers. Machine-readable metadata are essential for automatic discovery of datasets and services.
