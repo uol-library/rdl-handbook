@@ -1,9 +1,9 @@
 ---
 layout: page
 sectionmenu: dmp
-title: Data Classification and Planning
+title: Teaching with data
 index: true
-permalink: /data-management/data-classification-and-planning/
+permalink: /data-management/teaching-with-data/
 ---
 
 You can use research data for teaching and learning. This is especially useful when laboratory time and fieldwork is limited or not possible, or for distance learners.
