@@ -8,6 +8,13 @@ permalink: /data-management/data-sources/
 
 There are thousands of data repositories worldwide, housing datasets from a wide range of research areas. Some repositories hold subject specific data, while others contain data from several different disciplines. Here are some suggested starting points for finding data; it is by no means an exhaustive list of data sources.
 
+### At the University of Leeds
+In addition to specialist discipline data repositories the University of Leeds has its own data repository [Research Data Leeds Leeds Repository](https://archive.researchdata.leeds.ac.uk). 
+
+Library: There’s the [resources page on the Library website:](https://library.leeds.ac.uk/info/1103/databases) or using Library Search will bring up anything for which the library has a subscription. These include some commercial databases as well as the Library's own holdings.
+
+Faculties and Schools: Some faculties and schools have acquired access to datasets and databases. For example the Business School maintains a [list of databases]( https://business.leeds.ac.uk/divisions-accounting-finance/doc/databases) available directly from the School. 
+
 ### Find repositories in your research area
 Search the re3data (Registry of Research Data Repositories) to find relevant repositories.
 
