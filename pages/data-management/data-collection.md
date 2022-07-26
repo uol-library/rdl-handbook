@@ -14,6 +14,8 @@ The UK Data Archive file formats table is a useful:
 
 <https://www.ukdataservice.ac.uk/manage-data/format/file-formats>
 
+You may also find [examples from the Library of Congress](https://www.loc.gov/preservation/resources/rfs/TOC.html) helpful.
+
 ### Accessibility
 
 If data is to be stored in PDF format, care should be taken to ensure the generated files are accessible (see <https://www.w3.org/TR/WCAG20-TECHS/pdf>). Other formats also benefit from the use of specific techniques of authorship to make them more accessible (for example, Microsoft Word - <https://webaim.org/techniques/word/>).
@@ -22,7 +24,7 @@ Provision of transcripts / closed captions / subtitles for audio and video conte
 
 ### Nvivo 
 
-NVivo data will be prepared for archiving in accordance with the UKDS guidelines (http://data-archive.ac.uk/media/262066/ukda-datamanagement-nvivo.pdf) 
+The UK Data Service provides [good practice guidelines on data managing using NVivo9](https://ukdataservice.ac.uk//app/uploads/ukda-datamanagement-nvivo.pdf) 
 
 ### Software / Code
 
