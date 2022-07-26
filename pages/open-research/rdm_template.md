@@ -52,4 +52,4 @@ State who will be responsible for collecting, organising and depositing data and
 "Data deposited with the Research Data Leeds repository will be retained for a minimum of 10 years; data of long-term value will be retained indefinitely."
 
 ## Post award
-If your application is successful, you will need to submit [a full data management plan](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/report/data-management-plan-template_he_en.docx) within the first six months of your project and update the plan regularly. 
+If your application is successful, you will need to submit [a full data management plan](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf) within the first six months of your project and update the plan regularly. 
