@@ -6,29 +6,29 @@ index: true
 permalink: /open-research/eu-open-science/
 ---
 
-##### "Describe how appropriate open science practices are implemented as an integral part of the proposed methodology. Show how the choice of practices and their implementation are adapted to the nature of your work, in a way that will increase the chances of the project delivering on its objectives. If you believe that none of these practices are appropriate for your project, please provide a justification here." 
-[Horizon Europe Programme - Standard Application Form (HE RIA, IA) Version 3, 26 May](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf) 
+Describe how appropriate open science practices are implemented as an integral part of the proposed methodology. Show how the choice of practices and their implementation are adapted to the nature of your work, in a way that will increase the chances of the project delivering on its objectives. If you believe that none of these practices are appropriate for your project, please provide a justification here.
 
-### Mandatory open science practices ([Horizon Europe, Programme Guide Version 1.1, 19 July](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf)
+[Horizon Europe Programme - Standard Application Form (HE RIA, IA)](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf)
+
+[Horizon Europe, Programme Guide](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf)
+
+### Mandatory open science practices
 
 Some open science practices are mandatory for all beneficiaries per the grant agreement. They concern:
 
 * open access to scientific publications under the conditions required by the grant agreement
-* responsible management of research data in line with the FAIR principles of Findability’, ‘Accessibility’, ‘Interoperability’ and ‘Reusability’, notably through the generalised use of data management plans, and open access to research data under the principle ‘as open as possible, as closed as necessary’, under the conditions required by the grant agreement
-* information about the research outputs/tools/instruments needed to validate the conclusions of scientific publications or to validate/re-use research data
+* responsible management of research data in line with the FAIR principles of **F**indability, **A**ccessibility, **I**nteroperability and **R**eusability, notably through the generalised use of data management plans, and open access to research data under the principle **‘as open as possible, as closed as necessary’**, under the conditions required by the grant agreement
+* information about the research outputs / tools / instruments needed to validate the conclusions of scientific publications or to validate / re-use research data
 * digital or physical access to the results needed to validate the conclusions of scientific publications, unless exceptions apply
 * in cases of public emergency, if requested by the granting authority, immediate open access to all research outputs under open licenses or, if exceptions apply, access under fair and reasonable conditions to legal entities that need the research outputs to address the public emergency
 
 ### Recommended open science practices
 
-These are open science practices beyond the mandatory ones, such as involving all relevant knowledge actors, including citizens, early and open sharing of research,
-output management beyond research data, open peer-review. This is a non-exhaustive list of practices that proposers are expected to adopt when possible and appropriate for
-their projects. Finally, certain work programme topics or call conditions may encourage specific additional open science practices.
+These are open science practices beyond the mandatory ones, such as involving all relevant knowledge actors, including citizens, early and open sharing of research, output management beyond research data, open peer-review. This is a non-exhaustive list of practices that proposers are expected to adopt when possible and appropriate for their projects. Finally, certain work programme topics or call conditions may encourage specific additional open science practices.
 
-The open approaches that are relevant and appropriate for your specific disciplinary context may vary. Click the links for an overview of each practice and a basic template that can be adapted for your proposal.
+The open approaches that are relevant and appropriate for your specific disciplinary context may vary.
 
-
-* open qualitative data for research documentation or further use e.g. Open interview transcripts / workshop notes
+* Open qualitative data for research documentation or further use e.g. Open interview transcripts / workshop notes
 * Open analysis code (analytical code for data analysis that anyone can inspect, modify, and enhance)
 * Open software code (source code for software that anyone can inspect, modify, and enhance)
 * Preprints i.e. version of a scholarly or scientific paper published online before formal peer review and publication
