@@ -6,6 +6,7 @@
 #  /___/_/\__/\__/ /___/\__/\__/\__/_/_//_/\_, /___/
 #                                         /___/
 #
+remote_theme: uol-library/jekyll-theme-uol
 title: Research Data Management Handbook
 url: https://handbook.researchdata.leeds.ac.uk
 repository: uol-library/rdl-handbook
