@@ -16,7 +16,8 @@ RADAR - **R**estricted **A**ccess **DA**ta **R**epository - forms part of the da
 * Datasets held in RADAR (optionally) have a public metadata record in the open Research Data Leeds repository outlining the dataset contents and conditions of access.  Access to RADAR datasets are via a registration process. The metadata record provides a link to a data request form.
 * In most cases, RADAR will **not** accept data that identifies individuals. All audio and video files should be transcribed and anonymised. Anonymisation should remove both direct and indirect identifiers. Further information on anonymisation techniques is available from [the UK Data Archive] 
 (https://ukdataservice.ac.uk/learning-hub/research-data-management/#anonymisation)
-* Research projects funded by ESRC should offer their research data to [the UK Data Archive](https://ukdataservice.ac.uk/deposit-data) in the first instance. Research Projects funded by NERC should offer their data to [the Environmental Data Service](https://eds.ukri.org/environmental-data-service) in the first instance. 
+* Research projects funded by ESRC should offer their research data to [the UK Data Archive](https://ukdataservice.ac.uk/deposit-data) in the first instance. Research Projects funded by NERC should offer their data to [the Environmental Data Service](https://eds.ukri.org/environmental-data-service) in the first instance.
+
 ## Access controls 
 
 * The RADAR repository manages access to datasets using registered RADAR user accounts. 
@@ -41,12 +42,14 @@ The University of Leeds operates an Information Security Management System (ISMS
 
 RADAR includes two modes of storage – Encrypted or Unencrypted, both requiring user registration for data access.  
 
-**Encrypted**  
+**Encrypted**
+
 * Data on University provided storage infrastructure 
 * Storage infrastructure access controlled 
 * Data encrypted and encryption passwords managed through appropriate authority (probably IRC/LIDA) 
 
-_Reuser Access_
+**Reuser Access**
+
 * User registration – username and password 
 * Agreed period of time 
 * Access only to agreed dataset 
@@ -54,5 +57,6 @@ _Reuser Access_
 * Data transferred only to approved environment (e.g. IRC / LIDA) 
 
 **Unencrypted**
+
 * Data on University provided storage infrastructure 
 * Storage infrastructure access controlled 
