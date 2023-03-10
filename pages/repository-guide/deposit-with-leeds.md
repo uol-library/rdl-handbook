@@ -6,9 +6,11 @@ index: true
 permalink: /repository-guide/deposit-with-leeds/
 ---
 
-The University of Leeds has a data repository 
+The University of Leeds has a data repository for open data sharing.
  
 <http://archive.researchdata.leeds.ac.uk/>
+
+There is also a closed access repository called RADAR (Restricted Access DAta Repository) for material which can be shared but only with controls applied. Typically this will be data sourced from human participants or other data with sensitivities and restrictions. See the [RADAR](https://handbook.researchdata.leeds.ac.uk/repository-guide/radar/) page for more details.
 
 A guide to the Deposit process with links to relevant forms and templates is available on the Research Data Leeds website:
 
@@ -19,7 +21,9 @@ We encourage researchers who are new to depositing and sharing data to start wit
 * If someone reads my paper or dissertation what data would they need to have available in order to be able to  validate my findings or conclusions? 
 * Is any of the data I have collected of intrinsic value - perhaps because of the uniqueness of a situation or event, the scarcity of the sample tested or the very high cost associated with the data collection? 
  
-If your data goes through a complex processing chain answering these questions will also help you to decide which data stages will be of most value and reuse potential. You may even discover someone wants to collaborate with you because of the data.
+If your data goes through a complex processing chain, answering these questions will also help you to decide which data stages will be of most value and reuse potential. You may even discover someone wants to collaborate with you because of the data.
+
+If you are uncertain whether your data is suitable for sharing, or whether the data is more suitable for the open repository or RADAR, please contact the Research Data Leeds team for advice <researchdataleeds@leeds.ac.uk>
 
 ## Deposit timeline
 
