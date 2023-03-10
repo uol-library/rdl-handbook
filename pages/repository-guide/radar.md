@@ -20,7 +20,7 @@ RADAR - **R**estricted **A**ccess **DA**ta **R**epository - forms part of the da
 ## Access controls 
 
 * The RADAR repository manages access to datasets using registered RADAR user accounts. 
-* Data access requests are handled in line with the Data Access escalation model  
+* Data access requests are handled in line with a data escalation model: in some cases, access can be granted by the depositor in conjunction with the Library research data team; in other cases requests will need to be escalated to a University level committee or an external body 
 * Where a request for access is successful, the RADAR user account allows the requestor to log-in, view the metadata and download the requested data file(s) either to an approved environment or to their own system. 
 * Each registered user account in RADAR is restricted to a specific dataset(s) and is active for a specified period of time after which access is disabled. 
 * Data requesters must agree to an End User Agreement / Data Sharing Agreement which includes: 
@@ -30,7 +30,7 @@ RADAR - **R**estricted **A**ccess **DA**ta **R**epository - forms part of the da
   * Data will be not be reshared 
   * Data will be removed at the end of the agreed period 
   * any additional stipulations required by the depositor or relevant third parties (for example, a research partner or data supplier). 
-* Any challenges to dataset access decisions will be handled through the Data Access Group under the Data Access Escalation model agreed with the University of Leeds Research and Innovation Board.  
+* Any challenges to dataset access decisions will be handled through a data issue escalation process.  
 * Where there are any concerns about a dataset held in the repository a Take-down policy and process will be followed. 
 
 ## Technical infrastructure 
