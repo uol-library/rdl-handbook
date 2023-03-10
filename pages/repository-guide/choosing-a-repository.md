@@ -16,7 +16,7 @@ Deposit your data in our [Research Data Leeds repository]({{ site.baseurl }}{% l
 
 ## Is your data already in another repository?
 
-If your data is already available in the [UK Data Service](https://ukdataservice.ac.uk/){:target="_blank"}, there is no need to deposit it again with the Research Data Leeds repository. Make sure there is a citation to the data in the UK Data Service in your paper References list.
+If your data is already available in the [UK Data Service](https://ukdataservice.ac.uk/{:target="_blank"}), there is no need to deposit it again with the Research Data Leeds repository. Make sure there is a citation to the data in the UK Data Service in your paper References list.
 
 ## Repository for code 
 
