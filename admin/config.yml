@@ -42,6 +42,32 @@ collections:
       - {label: "URL", name: "permalink", widget: "string", default: "/open-research/"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "policies-processes"
+    label: "Policies and Processes"
+    folder: "pages/policies-processes/"
+    create: true
+    preview: false
+    slug: "{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - {label: "Section Menu", name: "sectionmenu", widget: "hidden", default: "processes"}
+      - {label: "Index", name: "index", widget: "hidden", default: true}
+      - {label: "URL", name: "permalink", widget: "string", default: "/policies-processes/"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "user-guide"
+    label: "Repository User Guide"
+    folder: "pages/repository-guide/"
+    create: true
+    preview: false
+    slug: "{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - {label: "Section Menu", name: "sectionmenu", widget: "hidden", default: "userguide"}
+      - {label: "Index", name: "index", widget: "hidden", default: true}
+      - {label: "URL", name: "permalink", widget: "string", default: "/repository-guide/"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
     folder: "_posts/" # The path to the folder where the documents are stored
